@@ -6,7 +6,7 @@
 
 I'm a Computer Science Engineering student based in Bengaluru, India. I am a passionate developer focusing on building high-performance applications and contributing to the open-source community.
 
-I am currently deep-diving into **Python-based open-source tools**, specifically working with the Vorta environment and implementing rigorous type-hinting with mypy. I enjoy solving complex logic challenges and turning them into effective real-world solutions.
+I enjoy turning complex logic into simple, effective real-world solutions. Whether I'm mastering the MERN stack or solving DSA challenges, I strive to be a reliable and supportive team member who values a positive collaborative environment.
 
 **Connect with me:**
 <p align="left">
@@ -31,19 +31,21 @@ I am currently deep-diving into **Python-based open-source tools**, specifically
 
 ### Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,py,c,mysql,html,css,git,github,vscode,postman" />
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45"/></a>  
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="45" height="45"/></a>  
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="45" height="45"/></a>  
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/></a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45" height="45"/></a>  
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="45" height="45"/></a>  
+  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="45" height="45"/></a>  
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45"/></a>  
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" height="45"/></a>  
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/></a>  
 </p>
 
 <p align="left">
   <img src="https://readme-marquee.vercel.app/api?text=MongoDB%20•%20Express%20•%20React%20•%20Node.js%20•%20JavaScript%20•%20Python%20•%20C%20•%20MySQL%20•%20HTML%20•%20CSS%20•%20Git%20•%20GitHub%20•%20VS%20Code%20•%20Postman&font=Fira%20Code&fontSize=18&fontColor=1E40AF&speed=50" />
 </p>
-
----
-
-### 2026 Focus & Open Source
-* 🚀 **Google Summer of Code:** Currently finalizing my 2026 GSoC proposal for the upcoming submission deadline.
-* 🛠 **Vorta Development:** Working on improving codebase reliability through static type-hinting analysis using `mypy`.
-* 📚 **Advanced Mathematics:** Applying concepts from probability distributions and multi-variable calculus to algorithmic problem-solving.
 
 ---
 
@@ -103,7 +105,7 @@ I am currently deep-diving into **Python-based open-source tools**, specifically
 
 ### Currently Vibing To
 <div align="center">
-  <a href="https://open.spotify.com/user/317uexzzh7ohdi2esfx7jvzlgvna?si=fe6a40a74791495a">
+  <a href="https://open.spotify.com/user/31jbyxt4pq5qhz64ngyyioo4od7i">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jbyxt4pq5qhz64ngyyioo4od7i&width=400&count=3" alt="Spotify Recently Played" />
   </a>
 </div>
