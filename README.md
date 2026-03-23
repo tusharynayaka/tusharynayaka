@@ -45,24 +45,6 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 
 ---
 
-### Coding & Rhythm
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h4>LeetCode Progress</h4>
-      <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=light&font=Fira+Code&ext=contest&cache=1" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>Recently Played</h4>
-      <a href="https://open.spotify.com/user/317uexzzh7ohdi2esfx7jvzlgvna">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=317uexzzh7ohdi2esfx7jvzlgvna&width=350&count=4" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ### GitHub Insights 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&title_color=1E40AF&icon_color=1E40AF&hide_border=true" height="165"/>
@@ -107,6 +89,24 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
     </tr>
 </table>
 </details>
+
+---
+
+### Coding & Rhythm
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>LeetCode Progress</h4>
+      <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=light&font=Fira+Code&ext=contest&cache=1" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Recently Played</h4>
+      <a href="https://open.spotify.com/user/1ruu5bmall8721u0hsnedbbxh">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=317uexzzh7ohdi2esfx7jvzlgvna&width=350&count=4" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
