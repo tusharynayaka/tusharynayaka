@@ -22,7 +22,7 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 </td>
 
 <td width="35%" align="center" valign="middle">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1E40AF&height=250&text=TYN&fontSize=70&fontColor=ffffff" width="100%" style="border-radius:15px;"/>
+  <img src="https://img.freepik.com/free-vector/cute-cat-playing-laptop-stomach-cartoon-vector-icon-illustration-animal-technology-isolated-flat_138676-4740.jpg" width="100%" style="border-radius:15px;"/>
 </td>
 </tr>
 </table>
@@ -92,7 +92,7 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 
 ---
 
-### Coding & Rhythm
+### Coding and Rhythm
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
@@ -101,7 +101,7 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
     </td>
     <td width="50%" align="center" valign="top">
       <h4>Recently Played</h4>
-      <a href="https://open.spotify.com/user/1ruu5bmall8721u0hsnedbbxh">
+      <a href="https://open.spotify.com/user/317uexzzh7ohdi2esfx7jvzlgvna">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=317uexzzh7ohdi2esfx7jvzlgvna&width=350&count=4" width="100%" />
       </a>
     </td>
