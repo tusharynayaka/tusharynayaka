@@ -10,7 +10,9 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 
 **Connect with me:**
 <p align="left">
-  <a href="https://tusharynayaka.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="30" height="30" alt="portfolio" /></a>  
+<a href="https://tusharynayaka.vercel.app">
+  <img src="https://tusharynayaka.vercel.app/logo.png" width="30" height="30" alt="portfolio logo" />
+</a>
  <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" /></a>  
  <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" /></a>  
  <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="30" height="30" /></a>
