@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=250&section=header&text=Tushar%20Y%20Nayaka&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1E40AF&height=300&section=header&text=TUSHAR%20Y%20NAYAKA&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=FULL%20STACK%20ENGINEER%20•%20OPEN%20SOURCE%20ENTHUSIAST&descSize=20&descAlignVertical=55" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=1E40AF&center=true&vCenter=true&width=750&lines=Full-Stack+Architect+in+the+Making;Open+Source+Evangelist;Solving+Real-World+Problems+with+Code;CSE+Undergrad+%40+Bengaluru" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1E40AF&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Experiences;Mastering+the+MERN+Stack;Solving+Complex+DSA+Challenges;Engineering+Solutions+for+the+Future" />
 </p>
 
 <div align="center">
 
 ### ⚡ THE MISSION
-**Turning coffee into scalable code.** I'm a 1st-year CSE student from Bengaluru, India, obsessed with the **MERN stack** and the art of elegant problem-solving. Whether it's mastering **DSA** or contributing to **Open Source**, I'm always in "build mode."
+**Turning logic into impact.** I'm a CSE student based in Bengaluru, obsessed with building high-performance applications and contributing to the global open-source ecosystem. Currently architecting the web with the **MERN Stack** and refining my problem-solving skills through **DSA**.
 
 </div>
 
@@ -24,75 +24,80 @@
 
 ## 🏗️ Featured Projects
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/tusharynayaka/tusharynayaka/main/portfolio-preview.png" alt="Portfolio" width="100%"/>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/tusharynayaka/tusharynayaka/main/portfolio-preview.png" alt="Portfolio" width="100%" style="border-radius:10px;"/>
     </td>
     <td>
       <h3>🌐 Personal Portfolio</h3>
       <p>My digital home. A sleek, responsive site showcasing my skills, coding journey, and full project catalog built with modern web tech.</p>
       <a href="https://tusharynayaka.vercel.app"><img src="https://img.shields.io/badge/Live-1E40AF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-      <a href="https://github.com/tusharynayaka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/tusharynayaka"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
   
   <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/tusharynayaka/tusharynayaka/main/pharmacy-preview.png" alt="Pharmacy" width="100%"/>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/tusharynayaka/tusharynayaka/main/pharmacy-preview.png" alt="Pharmacy" width="100%" style="border-radius:10px;"/>
     </td>
     <td>
       <h3>💊 Pharmacy Management App</h3>
       <p>A structured data handling solution for managing patient records and inventory. Features unique ID search and efficient retrieval.</p>
-      <a href="https://github.com/tusharynayaka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/tusharynayaka"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 
   <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/tusharynayaka/tusharynayaka/main/meetmate-preview.png" alt="MeetMate" width="100%"/>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/tusharynayaka/tusharynayaka/main/meetmate-preview.png" alt="MeetMate" width="100%" style="border-radius:10px;"/>
     </td>
     <td>
       <h3>📍 MeetMate</h3>
       <p>A geospatial coordination tool that helps groups find the mathematically optimal meeting spot based on everyone's location.</p>
-      <a href="https://github.com/tusharynayaka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/tusharynayaka"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 
   <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/tusharynayaka/tusharynayaka/main/terra-preview.png" alt="TerraAlertum" width="100%"/>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/tusharynayaka/tusharynayaka/main/terra-preview.png" alt="TerraAlertum" width="100%" style="border-radius:10px;"/>
     </td>
     <td>
       <h3>🌍 TerraAlertum</h3>
       <p>A disaster-tech platform that provides real-time emergency notifications via SMS and email to keep local communities safe.</p>
-      <a href="https://github.com/tusharynayaka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/tusharynayaka"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=light&font=Inter&ext=contest" />
+</p>
+
 <div align="center">
 
-### 🤝 LET'S COLLABORATE
+### 🌐 THE DIGITAL HEADQUARTERS
+**I'm always open to interesting collaborations and open-source opportunities.**
 
-<a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b">
-  <img src="https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b" target="_blank">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=1E40AF&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" />
 </a>
-<a href="https://tusharynayaka.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-1E40AF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://tusharynayaka.vercel.app" target="_blank">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=000000&logo=Google+Chrome&logoColor=FFFFFF&label=" alt="Portfolio" />
 </a>
-<a href="mailto:tusharynayaka@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1E40AF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:tusharynayaka@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=1E40AF&logo=Gmail&logoColor=FFFFFF&label=" alt="Email" />
 </a>
-<a href="https://leetcode.com/u/Tushar_Y_Nayaka/">
-  <img src="https://img.shields.io/badge/LeetCode-1E40AF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/u/Tushar_Y_Nayaka/" target="_blank">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=FFA116&logo=LeetCode&logoColor=FFFFFF&label=" alt="LeetCode" />
 </a>
 
 </div>
 
 <p align="center">
   <br>
-  <i>“First, solve the problem. Then, write the code.”</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=tusharynayaka&label=PROFILE%20VIEWS&color=1E40AF&style=flat-square" />
 </p>
