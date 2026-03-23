@@ -1,13 +1,13 @@
-<!-- 🔷 HERO BANNER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=1E40AF&height=300&section=header&text=TUSHAR%20Y%20NAYAKA&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=FULL%20STACK%20ENGINEER%20•%20OPEN%20SOURCE%20ENTHUSIAST&descSize=20&descAlignVertical=55" />
 </p>
 
-<!-- 🔷 TYPING ANIMATION -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=1E40AF&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Experiences;Mastering+the+MERN+Stack;Solving+DSA+Challenges;Engineering+Real-World+Solutions" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tusharynayaka&color=1E40AF&style=flat-square&label=PROFILE+VIEWS" alt="tusharynayaka" />
 </p>
 
 ---
@@ -25,8 +25,6 @@ I'm a Computer Science Engineering student based in **Bengaluru, India**, passio
 
 ## 🛠️ Tech Stack
 
-<!-- 🔄 FLOWING ANIMATION -->
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,python,c,mysql,html,css,git,github,vscode,postman" />
 </p>
@@ -37,10 +35,9 @@ I'm a Computer Science Engineering student based in **Bengaluru, India**, passio
 
 ---
 
-## 📊 GitHub Insights
-
+## 📊 GitHub Insights 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&title_color=1E40AF&icon_color=1E40AF&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&title_color=1E40AF&icon_color=1E40AF&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&ring=1E40AF&fire=1E40AF&hide_border=true" height="160"/>
 </p>
 
@@ -65,17 +62,6 @@ I'm a Computer Science Engineering student based in **Bengaluru, India**, passio
       </a>
     </td>
   </tr>
-
-  <!-- ❌ COMMENTED OUT PROJECT
-  <tr>
-    <td width="50%" align="center">
-      <img src="..." />
-    </td>
-    <td>
-      <h3>💊 Pharmacy Management App</h3>
-    </td>
-  </tr>
-  -->
 
   <tr>
     <td width="50%" align="center">
@@ -107,9 +93,8 @@ I'm a Computer Science Engineering student based in **Bengaluru, India**, passio
 ---
 
 ## 📈 LeetCode Stats
-
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=light&font=Fira+Code&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=light&font=Fira+Code&ext=contest&cache=1" />
 </p>
 
 ---
@@ -117,7 +102,6 @@ I'm a Computer Science Engineering student based in **Bengaluru, India**, passio
 <div align="center">
 
 ### 💡 DAILY CODE INSIGHT
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 
 </div>
@@ -146,4 +130,3 @@ I'm a Computer Science Engineering student based in **Bengaluru, India**, passio
 <p align="center">
   💙 Built with passion by Tushar Y Nayaka
 </p>
-
