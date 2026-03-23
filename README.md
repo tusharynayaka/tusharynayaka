@@ -50,7 +50,7 @@ I'm a Computer Science Engineering student based in Bengaluru, India, passionate
 ## Featured Projects
 
 <details>
-<summary><b>Click to expand my portfolio and web applications</b></summary>
+<summary><b>Click to expand</b></summary>
 <br />
 
 <table width="100%">
