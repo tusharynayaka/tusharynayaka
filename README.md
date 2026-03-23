@@ -97,7 +97,7 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 ### Currently Vibing To
 <div align="center">
   <a href="https://open.spotify.com/user/317uexzzh7ohdi2esfx7jvzlgvna?si=fe6a40a74791495a">
-    <img src="https://novatorem-spotify-widget.vercel.app/api/recent-played?user=31jbyxt4pq5qhz64ngyyioo4od7i&count=3" alt="Spotify Recently Played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jbyxt4pq5qhz64ngyyioo4od7i&width=400&count=3" alt="Spotify Recently Played" />
   </a>
 </div>
 
