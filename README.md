@@ -14,16 +14,16 @@
 
 <div align="center">
 
-### ⚡ THE MISSION
+### THE MISSION
 
 **Turning logic into impact.**
-I'm a Computer Science Engineering student based in **Bengaluru, India**, passionate about building high-performance applications and contributing to open-source.
+I'm a Computer Science Engineering student based in Bengaluru, India, passionate about building high-performance applications and contributing to open-source.
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,python,c,mysql,html,css,git,github,vscode,postman" />
@@ -35,19 +35,23 @@ I'm a Computer Science Engineering student based in **Bengaluru, India**, passio
 
 ---
 
-## 📊 GitHub Insights 
+## GitHub Insights 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&title_color=1E40AF&icon_color=1E40AF&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&ring=1E40AF&fire=1E40AF&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&title_color=1E40AF&icon_color=1E40AF&text_color=333333&bg_color=ffffff&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=default&ring=1E40AF&fire=1E40AF&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&title_color=1E40AF&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&title_color=1E40AF&hide_border=true&bg_color=ffffff" height="150"/>
 </p>
 
 ---
 
-## 🏗️ Featured Projects
+## Featured Projects
+
+<details>
+<summary><b>Click to expand my portfolio and web applications</b></summary>
+<br />
 
 <table width="100%">
   <tr>
@@ -55,7 +59,7 @@ I'm a Computer Science Engineering student based in **Bengaluru, India**, passio
       <img src="https://api.microlink.io/?url=https%3A%2F%2Ftusharynayaka.vercel.app&screenshot=true&embed=screenshot.url" width="100%" style="border-radius:10px; border:1px solid #1E40AF;" />
     </td>
     <td>
-      <h3>🌐 Personal Portfolio</h3>
+      <h3>Personal Portfolio</h3>
       <p>A modern responsive portfolio showcasing my projects and skills.</p>
       <a href="https://tusharynayaka.vercel.app">
         <img src="https://img.shields.io/badge/Live-1E40AF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
@@ -68,7 +72,7 @@ I'm a Computer Science Engineering student based in **Bengaluru, India**, passio
       <img src="https://api.microlink.io/?url=https%3A%2F%2Fmeetmate-eight.vercel.app&screenshot=true&embed=screenshot.url" width="100%" style="border-radius:10px; border:1px solid #1E40AF;" />
     </td>
     <td>
-      <h3>📍 MeetMate</h3>
+      <h3>MeetMate</h3>
       <p>Find optimal meeting points based on user locations.</p>
       <a href="https://meetmate-eight.vercel.app/">
         <img src="https://img.shields.io/badge/Live-1E40AF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
@@ -81,7 +85,7 @@ I'm a Computer Science Engineering student based in **Bengaluru, India**, passio
       <img src="https://api.microlink.io/?url=https%3A%2F%2Fterraalertum.vercel.app&screenshot=true&embed=screenshot.url" width="100%" style="border-radius:10px; border:1px solid #1E40AF;" />
     </td>
     <td>
-      <h3>🌍 TerraAlertum</h3>
+      <h3>TerraAlertum</h3>
       <p>Real-time disaster alert system with SMS & email notifications.</p>
       <a href="https://terraalertum.vercel.app/">
         <img src="https://img.shields.io/badge/Live-1E40AF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
@@ -90,25 +94,27 @@ I'm a Computer Science Engineering student based in **Bengaluru, India**, passio
   </tr>
 </table>
 
+</details>
+
 ---
 
-## 📈 LeetCode Stats
+## LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=light&font=Fira+Code&ext=contest&cache=1" />
+  <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=light&font=Fira+Code&ext=contest" />
 </p>
 
 ---
 
 <div align="center">
 
-### 💡 DAILY CODE INSIGHT
+### DAILY CODE INSIGHT
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b">
@@ -128,5 +134,5 @@ I'm a Computer Science Engineering student based in **Bengaluru, India**, passio
 ---
 
 <p align="center">
-  💙 Built with passion by Tushar Y Nayaka
+  Built by Tushar Y Nayaka
 </p>
