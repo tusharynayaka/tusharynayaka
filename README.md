@@ -14,7 +14,9 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,python,c,mysql,html,css,git,github,vscode,postman&perline=7" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,python,c,mysql,html,css,git,github,vscode,postman&perline=14" />
+  </a>
 </p>
 
 <p align="center">
@@ -78,38 +80,29 @@
 <div align="center">
 
 ### 🌐 THE DIGITAL HEADQUARTERS
-**I'm always open to interesting collaborations and open-source opportunities.**
+**Let's build something incredible together.**
+
+<br>
 
 <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=1E40AF&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" />
+&nbsp; <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> &nbsp;
 </a>
 <a href="https://tusharynayaka.vercel.app" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=000000&logo=Google+Chrome&logoColor=FFFFFF&label=" alt="Portfolio" />
+&nbsp; <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /> &nbsp;
 </a>
 <a href="mailto:tusharynayaka@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=1E40AF&logo=Gmail&logoColor=FFFFFF&label=" alt="Email" />
+&nbsp; <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> &nbsp;
 </a>
 <a href="https://leetcode.com/u/Tushar_Y_Nayaka/" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=FFA116&logo=LeetCode&logoColor=FFFFFF&label=" alt="LeetCode" />
+&nbsp; <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /> &nbsp;
 </a>
 
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<br>
+
+**💙 Built with passion by Tushar Y Nayaka**
+
 </div>
-
-<p align="center">
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=tusharynayaka&label=PROFILE%20VIEWS&color=1E40AF&style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharynayaka&bg_color=ffffff&color=1E40AF&line=1E40AF&point=1E40AF&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tusharynayaka/tusharynayaka/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <strong>💙 Built with passion by Tushar Y Nayaka</strong>
-</p>
