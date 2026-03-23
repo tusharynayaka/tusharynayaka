@@ -29,22 +29,18 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 
 ---
 
-### Tech Stack
+# Tech Stack
 <p align="left">
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45"/></a>  
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="45" height="45"/></a>  
-  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="45" height="45"/></a>  
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/></a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45" height="45"/></a>  
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="45" height="45"/></a>  
   <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="45" height="45"/></a>  
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45"/></a>  
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" height="45"/></a>  
+  <a href="https://en.cppreference.com/w/cpp"><img src="https://skillicons.dev/icons?i=cpp" width="45" height="45"/></a>  
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="45" height="45"/></a>  
+  <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" width="45" height="45"/></a>  
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="45" height="45"/></a>  
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="45" height="45"/></a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45" height="45"/></a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45" height="45"/></a>  
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/></a>  
-</p>
-
-<p align="left">
-  <img src="https://readme-marquee.vercel.app/api?text=MongoDB%20•%20Express%20•%20React%20•%20Node.js%20•%20JavaScript%20•%20Python%20•%20C%20•%20MySQL%20•%20HTML%20•%20CSS%20•%20Git%20•%20GitHub%20•%20VS%20Code%20•%20Postman&font=Fira%20Code&fontSize=18&fontColor=1E40AF&speed=50" />
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" width="45" height="45"/></a>  
 </p>
 
 ---
@@ -105,8 +101,8 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 
 ### Currently Vibing To
 <div align="center">
-  <a href="https://open.spotify.com/user/31jbyxt4pq5qhz64ngyyioo4od7i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jbyxt4pq5qhz64ngyyioo4od7i&width=400&count=3" alt="Spotify Recently Played" />
+  <a href="http://googleusercontent.com/spotify.com/5">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317uexzzh7ohdi2esfx7jvzlgvna&width=300&count=4" />
   </a>
 </div>
 
