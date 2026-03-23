@@ -9,12 +9,12 @@
 <div align="center">
 
 ### ⚡ THE MISSION
-**Turning logic into impact.** I'm a CSE student based in Bengaluru, obsessed with building high-performance applications and contributing to the global open-source ecosystem. 
+**Turning logic into impact.** I'm a CSE student based in Bengaluru, obsessed with building high-performance applications and contributing to the global open-source ecosystem. Currently architecting the web with the **MERN Stack** and refining my problem-solving skills through **DSA**.
 
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,python,c,mysql,html,css,git,github,vscode,postman&perline=14" />
   </a>
 </p>
@@ -60,6 +60,17 @@
       <a href="https://github.com/tusharynayaka"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/tusharynayaka/tusharynayaka/main/terra-preview.png" alt="TerraAlertum" width="100%" style="border-radius:10px;"/>
+    </td>
+    <td>
+      <h3>🌍 TerraAlertum</h3>
+      <p>A disaster-tech platform that provides real-time emergency notifications via SMS and email to keep local communities safe.</p>
+      <a href="https://github.com/tusharynayaka"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
@@ -68,33 +79,29 @@
 
 <div align="center">
 
-### 💡 DAILY CODE INSIGHT
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Tech Quote" />
-
-<br>
-
 ### 🌐 THE DIGITAL HEADQUARTERS
 **Let's build something incredible together.**
 
 <br>
 
 <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+&nbsp; <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> &nbsp;
 </a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://tusharynayaka.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+&nbsp; <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /> &nbsp;
 </a>
-&nbsp;&nbsp;&nbsp;
 <a href="mailto:tusharynayaka@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-1E40AF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+&nbsp; <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> &nbsp;
 </a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/Tushar_Y_Nayaka/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+&nbsp; <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /> &nbsp;
 </a>
 
 <br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<br>
 
 **💙 Built with passion by Tushar Y Nayaka**
 
