@@ -9,14 +9,12 @@
 <div align="center">
 
 ### ⚡ THE MISSION
-**Turning logic into impact.** I'm a CSE student based in Bengaluru, obsessed with building high-performance applications and contributing to the global open-source ecosystem. Currently architecting the web with the **MERN Stack** and refining my problem-solving skills through **DSA**.
+**Turning logic into impact.** I'm a CSE student based in Bengaluru, obsessed with building high-performance applications and contributing to the global open-source ecosystem. Currently architecting the web with the **MERN Stack** and refining my problem-solving skills through **DSA.**
 
 </div>
 
 <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,python,c,mysql,html,css,git,github,vscode,postman&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,python,c,mysql,html,css,git,github,vscode,postman&perline=14" />
 </p>
 
 <p align="center">
@@ -85,16 +83,19 @@
 <br>
 
 <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b" target="_blank">
-&nbsp; <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> &nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://tusharynayaka.vercel.app" target="_blank">
-&nbsp; <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /> &nbsp;
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:tusharynayaka@gmail.com" target="_blank">
-&nbsp; <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> &nbsp;
+  <img src="https://img.shields.io/badge/Email-1E40AF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/Tushar_Y_Nayaka/" target="_blank">
-&nbsp; <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /> &nbsp;
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
 </a>
 
 <br><br>
