@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1E40AF&height=300&section=header&text=TUSHAR%20Y%20NAYAKA&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=FULL%20STACK%20ENGINEER%20•%20OPEN%20SOURCE%20ENTHUSIAST&descSize=20&descAlignVertical=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=300&section=header&text=TUSHAR%20Y%20NAYAKA&fontSize=70&fontColor=ffffff&animation=twinkle&desc=FULL%20STACK%20ENGINEER%20•%20OPEN%20SOURCE%20ENTHUSIAST&descSize=20&descAlignVertical=55" />
 </p>
 
 <p align="center">
@@ -26,11 +26,11 @@ I'm a Computer Science Engineering student based in Bengaluru, India, passionate
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,python,c,mysql,html,css,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,python,c,mysql,html,css,git,github,vscode,postman&perline=14" />
 </p>
 
 <p align="center">
-  <img src="https://readme-marquee.vercel.app/api?text=MongoDB%20•%20Express%20•%20React%20•%20Node.js%20•%20JavaScript%20•%20Python%20•%20C%20•%20MySQL%20•%20HTML%20•%20CSS%20•%20Git%20•%20GitHub%20•%20VS%20Code%20•%20Postman&font=Fira%20Code&fontSize=18&fontColor=1E40AF&speed=40" />
+  <img src="https://readme-marquee.vercel.app/api?text=MongoDB%20•%20Express%20•%20React%20•%20Node.js%20•%20JavaScript%20•%20Python%20•%20C%20•%20MySQL%20•%20HTML%20•%20CSS%20•%20Git%20•%20GitHub%20•%20VS%20Code%20•%20Postman&font=Fira%20Code&fontSize=20&fontColor=1E40AF&speed=50" />
 </p>
 
 ---
@@ -50,7 +50,7 @@ I'm a Computer Science Engineering student based in Bengaluru, India, passionate
 ## Featured Projects
 
 <details>
-<summary><b>Click to expand</b></summary>
+<summary><b>Click to expand my portfolio and web applications</b></summary>
 <br />
 
 <table width="100%">
@@ -100,7 +100,7 @@ I'm a Computer Science Engineering student based in Bengaluru, India, passionate
 
 ## LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=light&font=Fira+Code&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=light&font=Fira+Code&ext=contest&cache=1" />
 </p>
 
 ---
