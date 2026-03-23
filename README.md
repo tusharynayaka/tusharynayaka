@@ -17,43 +17,59 @@
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,python,c,mysql,html,css,git,github,vscode,postman&perline=7" />
 </p>
 
-<div align="center">
-
-### 🛠️ CURRENT FOCUS
-🚀 **MERN Stack Mastery** • 🧠 **Data Structures & Algorithms** • 🌐 **Open Source Contributions**
-
-</div>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&title_color=1E40AF&icon_color=1E40AF&text_color=333333&bg_color=ffffff&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&ring=1E40AF&fire=1E40AF&background=ffffff&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&title_color=1E40AF&text_color=333333&bg_color=ffffff&hide_border=true" height="180"/>
-</p>
+## 🏗️ Featured Projects
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/tusharynayaka/tusharynayaka/main/portfolio-preview.png" alt="Portfolio" width="100%"/>
+    </td>
+    <td>
+      <h3>🌐 Personal Portfolio</h3>
+      <p>My digital home. A sleek, responsive site showcasing my skills, coding journey, and full project catalog built with modern web tech.</p>
+      <a href="https://tusharynayaka.vercel.app"><img src="https://img.shields.io/badge/Live-1E40AF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+      <a href="https://github.com/tusharynayaka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/tusharynayaka/tusharynayaka/main/pharmacy-preview.png" alt="Pharmacy" width="100%"/>
+    </td>
+    <td>
+      <h3>💊 Pharmacy Management App</h3>
+      <p>A structured data handling solution for managing patient records and inventory. Features unique ID search and efficient retrieval.</p>
+      <a href="https://github.com/tusharynayaka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
 
-### 🏗️ FEATURED BUILDS
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/tusharynayaka/tusharynayaka/main/meetmate-preview.png" alt="MeetMate" width="100%"/>
+    </td>
+    <td>
+      <h3>📍 MeetMate</h3>
+      <p>A geospatial coordination tool that helps groups find the mathematically optimal meeting spot based on everyone's location.</p>
+      <a href="https://github.com/tusharynayaka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
 
-**[Personal Portfolio](https://tusharynayaka.vercel.app)**
-*A digital deep-dive into my journey and skills.*
-
-**[Pharmacy Management System](https://github.com/tusharynayaka)**
-*Streamlined patient data handling with high-speed indexing.*
-
-**[MeetMate](https://github.com/tusharynayaka)**
-*Geospatial coordination for smarter group meetups.*
-
-**[TerraAlertum](https://github.com/tusharynayaka)**
-*Real-time disaster notification system using SMS & Email APIs.*
-
-</div>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=light&font=Inter&ext=contest" />
-</p>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/tusharynayaka/tusharynayaka/main/terra-preview.png" alt="TerraAlertum" width="100%"/>
+    </td>
+    <td>
+      <h3>🌍 TerraAlertum</h3>
+      <p>A disaster-tech platform that provides real-time emergency notifications via SMS and email to keep local communities safe.</p>
+      <a href="https://github.com/tusharynayaka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
