@@ -47,7 +47,7 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 
 ### Projects
 
-<details open>
+<details>
 <summary><b>Click to View Projects</b></summary>
 <br/>
 
