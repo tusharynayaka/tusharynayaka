@@ -50,6 +50,11 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 ### GitHub Insights 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&title_color=1E40AF&icon_color=1E40AF&hide_border=true&cache_seconds=1800" height="165"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&title_color=1E40AF&hide_border=true&langs_count=6&cache_seconds=1800" height="165"/>
+  
+  <br>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&ring=1E40AF&fire=1E40AF&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
