@@ -1,4 +1,4 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
     <td width="65%" valign="top">
 
@@ -49,21 +49,23 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 
 ### GitHub Insights 
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<div align="center">
+<table width="85%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&title_color=1E40AF&icon_color=1E40AF&hide_border=true&cache_seconds=1800" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=1E40AF&icon_color=1E40AF&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800" width="100%"/>
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&title_color=1E40AF&hide_border=true&langs_count=6&cache_seconds=1800" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&title_color=1E40AF&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=6&cache_seconds=1800" width="100%"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" width="100%" valign="top" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&ring=1E40AF&fire=1E40AF&hide_border=true&cache_seconds=1800" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=dark&ring=1E40AF&fire=1E40AF&currStreakLabel=1E40AF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&cache_seconds=1800" width="100%"/>
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -111,7 +113,7 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
   <tr>
     <td width="50%" align="center" valign="top">
       <h4>LeetCode Progress</h4>
-      <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=light&font=Fira+Code&ext=contest&cache=1" width="100%" />
+      <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=dark&font=Fira+Code&ext=contest&cache=1" width="100%" />
     </td>
     <td width="50%" align="center" valign="top">
       <h4>Recently Played</h4>
@@ -125,7 +127,7 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="85%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="85%" />
   <br><br>
   <h3>Thanks for visiting</h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=150&section=footer&text=SEE%20YOU%20AROUND&fontSize=40&fontColor=ffffff" width="100%" />
