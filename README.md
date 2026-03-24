@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=150&section=header&text=WELCOME&fontSize=40&fontColor=ffffff" width="100%" />
 </div>
 
-<table align="center" width="100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="left" width="70%" valign="top">
       <h1>Hello, I’m Tushar Y Nayaka</h1>
@@ -14,7 +14,7 @@
         <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="35" /></a>
         <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" /></a>
       </p>
-      <img src="https://hits.se/v1/tusharynayaka/count.svg?show=pageviews&label=Unique%20Visitors&color=1E40AF&style=flat" alt="Unique Visitors" />
+      <img src="https://komarev.com/ghpvc/?username=tusharynayaka&color=1E40AF&style=flat&label=Profile+Views" alt="Profile Views" />
     </td>
     <td align="right" width="30%" valign="middle">
       <img src="cat.png" width="250" style="border-radius: 15px;" />
