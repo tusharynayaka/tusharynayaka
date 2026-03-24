@@ -3,11 +3,17 @@
 </div>
 
 <div align="center">
-  <img src="cat.png" width="250" alt="Cat Illustration" />
-  <h1>Hello, I’m Tushar Y Nayaka</h1>
-  <p><b>Computer Science Engineering Student | Bengaluru, India</b></p>
-  <p>I am a developer focusing on building high-performance applications and contributing to the open-source community. I enjoy turning complex logic into simple, effective real-world solutions.</p>
+  <br />
+  <img src="cat.png" width="220" />
   
+  <h1>Hello, I’m Tushar Y Nayaka</h1>
+  
+  <p><b>Computer Science Engineering Student | Bengaluru, India</b></p>
+  
+  <p align="center">
+  I am a developer focusing on building high-performance applications and contributing to the open-source community. <br /> I enjoy turning complex logic into simple, effective real-world solutions.
+  </p>
+
   <p>
     <a href="https://tusharynayaka.vercel.app"><img src="https://tusharynayaka.vercel.app/vite.svg" width="35" /></a>
     <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="35" /></a>
@@ -15,8 +21,10 @@
     <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" /></a>
   </p>
 
-  <img src="https://hits.se/v1/tusharynayaka/count.svg?show=pageviews&label=Unique%20Visitors&color=1E40AF&style=flat" alt="Unique Visitors" />
+  <img src="https://hits.se/v1/tusharynayaka/count.svg?show=pageviews&label=Unique%20Visitors&color=1E40AF&style=flat" />
 </div>
+
+<br />
 
 ---
 
