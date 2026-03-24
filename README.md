@@ -4,19 +4,11 @@
 
 <div align="center">
 
-
-
 | | |
-
-|:---|:---:|
-
-| <h1>Hello, I’m Tushar Y Nayaka</h1> <p><b>Computer Science Engineering Student \| Bengaluru, India</b></p> <p>I am a developer focusing on building high-performance applications and contributing to the open-source community. I enjoy turning complex logic into simple, effective real-world solutions.</p> <p align="left"> <a href="https://tusharynayaka.vercel.app"><img src="https://tusharynayaka.vercel.app/vite.svg" width="35" alt="Portfolio Logo" /></a> <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="35" /></a> <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="35" /></a> <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" /></a> </p> <img src="https://komarev.com/ghpvc/?username=tusharynayaka&label=Profile%20views&color=1E40AF&style=flat" /> | <img src="https://img.freepik.com/free-vector/cute-cat-playing-laptop-stomach-cartoon-vector-icon-illustration-animal-technology-isolated-flat_138676-14156.jpg?semt=ais_hybrid&w=740&q=80" width="520" style="border-radius:15px;"/> |
-
-
+|:--- |:---:|
+| <h1>Hello, I’m Tushar Y Nayaka</h1> <p><b>Computer Science Engineering Student | Bengaluru, India</b></p> <p>I am a developer focusing on building high-performance applications and contributing to the open-source community. I enjoy turning complex logic into simple, effective real-world solutions.</p> <p align="left"> <a href="https://tusharynayaka.vercel.app"><img src="https://tusharynayaka.vercel.app/vite.svg" width="35" alt="Portfolio Logo" /></a> <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="35" /></a> <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="35" /></a> <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" /></a> </p> <img src="https://hits.se/v1/tusharynayaka/count.svg?show=pageviews&label=Unique%20Visitors&color=1E40AF&style=flat" /> | <img src="https://img.freepik.com/free-vector/cute-cat-playing-laptop-stomach-cartoon-vector-icon-illustration-animal-technology-isolated-flat_138676-14156.jpg" width="320" style="border-radius:15px;"/> |
 
 </div>
-
-
 
 ---
 
@@ -29,7 +21,7 @@
 
 ### Projects
 
-<details>
+<details open>
 <summary><b>Click to View Projects</b></summary>
 <br/>
 
@@ -92,11 +84,11 @@
   <tr>
     <td width="50%" align="center">
       <h4>LeetCode Progress</h4>
-      <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=dark&font=Fira+Code&ext=contest&cache=1800" width="100%" />
+      <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=dark&font=Fira+Code&ext=contest" width="100%" />
     </td>
     <td width="50%" align="center">
       <h4>Recently Played</h4>
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=317uexzzh7ohdi2esfx7jvzlgvna&width=350&count=4&cache_seconds=1800" width="100%" />
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=317uexzzh7ohdi2esfx7jvzlgvna&width=350&count=4" width="100%" />
     </td>
   </tr>
 </table>
@@ -107,11 +99,11 @@
 
 <table width="100%">
   <tr>
-    <td width="60%"><img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&theme=dark&icon_color=1E40AF&title_color=1E40AF&hide_border=true&cache_seconds=1800" width="100%"/></td>
-    <td width="40%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&title_color=1E40AF&hide_border=true&langs_count=6&cache_seconds=1800" width="100%"/></td>
+    <td width="60%"><img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&theme=dark&icon_color=1E40AF&title_color=1E40AF&hide_border=true" width="100%"/></td>
+    <td width="40%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&title_color=1E40AF&hide_border=true&langs_count=6" width="100%"/></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=dark&ring=1E40AF&fire=1E40AF&hide_border=true&cache_seconds=1800" width="100%"/></td>
+    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=dark&ring=1E40AF&fire=1E40AF&hide_border=true" width="100%"/></td>
   </tr>
 </table>
 
