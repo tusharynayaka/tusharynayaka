@@ -37,16 +37,10 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 
 # Tech Stack
 <p align="left">
-  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="45" height="45"/></a>  
-  <a href="https://en.cppreference.com/w/cpp"><img src="https://skillicons.dev/icons?i=cpp" width="45" height="45"/></a>  
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="45" height="45"/></a>  
-  <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" width="45" height="45"/></a>  
-  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="45" height="45"/></a>  
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="45" height="45"/></a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45" height="45"/></a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45" height="45"/></a>  
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/></a>  
-  <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" width="45" height="45"/></a>  
+  <img src="https://skillicons.dev/icons?i=c,py,js" title="Languages" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,react" title="Frontend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" title="Backend & Database" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" title="Tools" />
 </p>
 
 ---
@@ -66,7 +60,7 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
       </td>
       <td valign="middle" style="padding:16px;">
         <h3 style="margin:0 0 6px 0;">Personal Portfolio</h3>
-        <p style="margin:0;">A modern responsive portfolio built to showcase my software engineering journey and technical skills.</p>
+        <p style="margin:0;">A modern responsive portfolio built using the MERN stack to showcase my software engineering journey.</p>
         <div align="right"><a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="28" /></a></div>
       </td>
     </tr>
