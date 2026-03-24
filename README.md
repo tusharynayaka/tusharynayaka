@@ -2,24 +2,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=150&section=header&text=WELCOME&fontSize=40&fontColor=ffffff" width="100%" />
 </div>
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="400" valign="top">
-      <h1>Hello, I’m Tushar Y Nayaka</h1>
-      <p><b>Computer Science Engineering Student | Bengaluru, India</b></p>
-      <p>I am a developer focusing on building high-performance applications and contributing to the open-source community. I enjoy turning complex logic into simple, effective real-world solutions.</p>
-      <a href="https://tusharynayaka.vercel.app"><img src="https://skillicons.dev/icons?i=vite" width="30" /></a>
-      <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="30" /></a>
-      <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="30" /></a>
-      <a href="https://leetcode.com/u/Tushar_Y_Nayaka/"><img src="https://skillicons.dev/icons?i=leetcode" width="30" /></a>
-      <br><br>
-      <img src="https://komarev.com/ghpvc/?username=tusharynayaka&label=Profile%20views&color=1E40AF&style=flat" />
-    </td>
-    <td width="200" align="center" valign="middle">
-      <img src="https://img.freepik.com/free-vector/cute-cat-playing-laptop-stomach-cartoon-vector-icon-illustration-animal-technology-isolated-flat_138676-14156.jpg?semt=ais_hybrid&w=740&q=80" width="180" style="border-radius:15px;"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://img.freepik.com/free-vector/cute-cat-playing-laptop-stomach-cartoon-vector-icon-illustration-animal-technology-isolated-flat_138676-14156.jpg?semt=ais_hybrid&w=740&q=80" width="220" style="border-radius:15px; margin-bottom: 20px;" />
+  
+  # Hello, I’m Tushar Y Nayaka
+  **Computer Science Engineering Student | Bengaluru, India**
+  
+  I am a developer focusing on building high-performance applications and contributing to the open-source community. I enjoy turning complex logic into simple, effective real-world solutions.
+  
+  <p align="center">
+    <a href="https://tusharynayaka.vercel.app"><img src="https://skillicons.dev/icons?i=vite" width="35" /></a>
+    <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="35" /></a>
+    <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="35" /></a>
+    <a href="https://leetcode.com/u/Tushar_Y_Nayaka/"><img src="https://skillicons.dev/icons?i=leetcode" width="35" /></a>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=tusharynayaka&label=Profile%20views&color=1E40AF&style=flat" />
+</div>
 
 ---
 
@@ -38,19 +37,32 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>Personal Portfolio</h4>
-      <p>A modern responsive portfolio built using the MERN stack.</p>
+    <td width="40%" valign="middle">
       <a href="https://tusharynayaka.vercel.app">
         <img src="https://api.microlink.io/?url=https%3A%2F%2Ftusharynayaka.vercel.app&screenshot=true&embed=screenshot.url" width="100%" style="border-radius:10px; border:1px solid #1E40AF;" />
       </a>
     </td>
-    <td width="50%" valign="top">
-      <h4>MeetMate</h4>
-      <p>A smart location-based tool for optimal meeting points.</p>
+    <td width="60%" valign="top" style="padding-left:15px;">
+      <h4>Personal Portfolio</h4>
+      <p>A modern responsive portfolio built using the MERN stack to showcase my software engineering journey.</p>
+      <a href="https://tusharynayaka.vercel.app"><b>Live Demo</b></a> | <a href="https://github.com/tusharynayaka"><b>GitHub Repo</b></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="40%" valign="middle">
       <a href="https://meetmate-eight.vercel.app/">
         <img src="https://api.microlink.io/?url=https%3A%2F%2Fmeetmate-eight.vercel.app&screenshot=true&embed=screenshot.url" width="100%" style="border-radius:10px; border:1px solid #1E40AF;" />
       </a>
+    </td>
+    <td width="60%" valign="top" style="padding-left:15px;">
+      <h4>MeetMate</h4>
+      <p>A smart location-based tool designed to find the optimal meeting points between multiple users.</p>
+      <a href="https://meetmate-eight.vercel.app/"><b>Live Demo</b></a> | <a href="https://github.com/tusharynayaka"><b>GitHub Repo</b></a>
     </td>
   </tr>
 </table>
