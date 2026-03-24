@@ -1,4 +1,4 @@
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="65%" valign="top">
 
@@ -22,9 +22,8 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 </p>
 
     </td>
-
     <td width="35%" align="center" valign="middle">
-      <img src="https://img.freepik.com/free-vector/cute-cat-playing-laptop-stomach-cartoon-vector-icon-illustration-animal-technology-isolated-flat_138676-14156.jpg?semt=ais_hybrid&w=740&q=80" width="100%" style="border-radius:15px;"/>
+      <img src="https://img.freepik.com/free-vector/cute-cat-playing-laptop-stomach-cartoon-vector-icon-illustration-animal-technology-isolated-flat_138676-14156.jpg?semt=ais_hybrid&w=740&q=80" width="100%" style="border-radius:15px; display:block;"/>
     </td>
   </tr>
 </table>
@@ -50,18 +49,19 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 ### GitHub Insights 
 
 <div align="center">
-<table width="85%" border="0" cellspacing="0" cellpadding="0">
+<table width="90%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=1E40AF&icon_color=1E40AF&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=1E40AF&icon_color=1E40AF&bg_color=0d1117&hide_border=true&cache_seconds=1800" width="100%"/>
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&title_color=1E40AF&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=6&cache_seconds=1800" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&title_color=1E40AF&bg_color=0d1117&hide_border=true&langs_count=6&cache_seconds=1800" width="100%"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" width="100%" valign="top" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=dark&ring=1E40AF&fire=1E40AF&currStreakLabel=1E40AF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&cache_seconds=1800" width="100%"/>
+    <td colspan="2" width="100%" align="center">
+      <br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=dark&ring=1E40AF&fire=1E40AF&currStreakLabel=1E40AF&hide_border=true&cache_seconds=1800" width="100%"/>
     </td>
   </tr>
 </table>
