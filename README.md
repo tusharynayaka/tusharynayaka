@@ -5,7 +5,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="left" width="70%" valign="top">
-      <h1>Hello, I’m Tushar Y Nayaka</h1>
+      <h1>Hello, I am Tushar Y Nayaka</h1>
       <p><b>Computer Science Engineering Student | Bengaluru, India</b></p>
       <p>I am a developer focusing on building high-performance applications and contributing to the open-source community. I enjoy turning complex logic into simple, effective real-world solutions.</p>
       <p>
@@ -26,7 +26,7 @@
 
 ### Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,py,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,nodejs,express,mongodb,mysql,postgres,git,github,vscode,postman" />
 </p>
 
 ---
@@ -105,15 +105,22 @@
 
 ---
 
-### Coding and Rhythm
+### Competitive Programming and Rhythm
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <h4>LeetCode Progress</h4>
-      <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=dark&font=Fira+Code&ext=contest" width="100%" />
+    <td width="55%" align="center" valign="top">
+      <h4>LeetCode Mastery</h4>
+      <p>
+        <img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rating-2090-1E40AF?style=for-the-badge&logo=chart-line&logoColor=white" />
+      </p>
+      <a href="https://leetcode.com/Tushar_Y_Nayaka/">
+        <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=dark&font=Fira+Code&ext=contest" width="100%" />
+      </a>
+      <p><i>Top 1.6 percent Globally</i></p>
     </td>
-    <td width="50%" align="center">
+    <td width="45%" align="center" valign="top">
       <h4>Recently Played</h4>
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=317uexzzh7ohdi2esfx7jvzlgvna&width=350&count=4" width="100%" />
     </td>
