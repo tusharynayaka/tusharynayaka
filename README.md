@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=150&section=header&text=WELCOME&fontSize=40&fontColor=ffffff" width="100%" />
+</div>
+
 <table>
 <tr>
 <td width="65%" valign="top">
@@ -47,29 +51,9 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 
 ---
 
-### GitHub Insights 
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&theme=dark&icon_color=1E40AF&title_color=1E40AF&hide_border=true&cache_seconds=1800" width="100%"/>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&title_color=1E40AF&hide_border=true&langs_count=6&cache_seconds=1800" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=dark&ring=1E40AF&fire=1E40AF&hide_border=true&cache_seconds=1800" width="100%"/>
-    </td>
-  </tr>
-</table>
-
----
-
 ### Projects
 
-<details>
+<details open>
 <summary><b>Click to View Projects</b></summary>
 <br/>
 
@@ -115,9 +99,29 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
     </td>
     <td width="50%" align="center" valign="top">
       <h4>Recently Played</h4>
-      <a href="https://open.spotify.com/user/317uexzzh7ohdi2esfx7jvzlgvna">
+      <a href="https://spotify-recently-played-readme.vercel.app/api?user=317uexzzh7ohdi2esfx7jvzlgvna&width=350&count=4">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=317uexzzh7ohdi2esfx7jvzlgvna&width=350&count=4" width="100%" />
       </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### GitHub Insights 
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&theme=dark&icon_color=1E40AF&title_color=1E40AF&hide_border=true&cache_seconds=1800" width="100%"/>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&title_color=1E40AF&hide_border=true&langs_count=6&cache_seconds=1800" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=dark&ring=1E40AF&fire=1E40AF&hide_border=true&cache_seconds=1800" width="100%"/>
     </td>
   </tr>
 </table>
