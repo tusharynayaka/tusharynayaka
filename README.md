@@ -2,102 +2,97 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=150&section=header&text=WELCOME&fontSize=40&fontColor=ffffff" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://img.freepik.com/free-vector/cute-cat-playing-laptop-stomach-cartoon-vector-icon-illustration-animal-technology-isolated-flat_138676-14156.jpg?semt=ais_hybrid&w=740&q=80" width="180" style="border-radius:20px;"/>
-
-  # Hello, I’m Tushar Y Nayaka
-  **Computer Science Engineering Student | Bengaluru, India**
-
-  [![Portfolio](https://img.shields.io/badge/Portfolio-1E40AF?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://tusharynayaka.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tusharynayaka)
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Tushar_Y_Nayaka/)
-  
-  <img src="https://komarev.com/ghpvc/?username=tusharynayaka&label=Profile%20views&color=1E40AF&style=flat" alt="visitor-counter" />
-</div>
-
----
-
-### 🚀 About Me
-I'm a Computer Science Engineering student based in Bengaluru. I am a passionate developer focusing on building high-performance applications and contributing to the open-source community.
-
-I enjoy turning complex logic into simple, effective real-world solutions. Whether I'm mastering the MERN stack or solving DSA challenges, I strive to be a reliable and supportive team member.
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="400" valign="top">
+      <h1>Hello, I’m Tushar Y Nayaka</h1>
+      <p><b>Computer Science Engineering Student | Bengaluru, India</b></p>
+      <p>I am a developer focusing on building high-performance applications and contributing to the open-source community. I enjoy turning complex logic into simple, effective real-world solutions.</p>
+      <a href="https://tusharynayaka.vercel.app"><img src="https://skillicons.dev/icons?i=vite" width="30" /></a>
+      <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="30" /></a>
+      <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="30" /></a>
+      <a href="https://leetcode.com/u/Tushar_Y_Nayaka/"><img src="https://skillicons.dev/icons?i=leetcode" width="30" /></a>
+      <br><br>
+      <img src="https://komarev.com/ghpvc/?username=tusharynayaka&label=Profile%20views&color=1E40AF&style=flat" />
+    </td>
+    <td width="200" align="center" valign="middle">
+      <img src="https://img.freepik.com/free-vector/cute-cat-playing-laptop-stomach-cartoon-vector-icon-illustration-animal-technology-isolated-flat_138676-14156.jpg?semt=ais_hybrid&w=740&q=80" width="180" style="border-radius:15px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠 Tech Stack
-**Languages & Frontend**
+### Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,py,js,html,css,react" />
-</p>
-
-**Backend & Database**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-**Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=c,py,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
 </p>
 
 ---
 
-### 📂 Projects
+### Projects
 
-<details open>
-<summary><b>Click to Toggle Projects</b></summary>
+<details>
+<summary><b>Click to View Projects</b></summary>
 <br/>
 
-#### 🌐 [Personal Portfolio](https://tusharynayaka.vercel.app)
-> A modern responsive portfolio built using the MERN stack to showcase my software engineering journey.
-<a href="https://tusharynayaka.vercel.app">
-  <img src="https://api.microlink.io/?url=https%3A%2F%2Ftusharynayaka.vercel.app&screenshot=true&embed=screenshot.url" width="100%" style="border-radius:12px; border:1px solid #1E40AF;" />
-</a>
-
-#### 📍 [MeetMate](https://meetmate-eight.vercel.app/)
-> A smart location-based tool designed to find the optimal meeting points between multiple users.
-<a href="https://meetmate-eight.vercel.app/">
-  <img src="https://api.microlink.io/?url=https%3A%2F%2Fmeetmate-eight.vercel.app&screenshot=true&embed=screenshot.url" width="100%" style="border-radius:12px; border:1px solid #1E40AF;" />
-</a>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Personal Portfolio</h4>
+      <p>A modern responsive portfolio built using the MERN stack.</p>
+      <a href="https://tusharynayaka.vercel.app">
+        <img src="https://api.microlink.io/?url=https%3A%2F%2Ftusharynayaka.vercel.app&screenshot=true&embed=screenshot.url" width="100%" style="border-radius:10px; border:1px solid #1E40AF;" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>MeetMate</h4>
+      <p>A smart location-based tool for optimal meeting points.</p>
+      <a href="https://meetmate-eight.vercel.app/">
+        <img src="https://api.microlink.io/?url=https%3A%2F%2Fmeetmate-eight.vercel.app&screenshot=true&embed=screenshot.url" width="100%" style="border-radius:10px; border:1px solid #1E40AF;" />
+      </a>
+    </td>
+  </tr>
+</table>
 </details>
 
 ---
 
-### ⚡ Coding and Rhythm
+### Coding and Rhythm
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=dark&font=Fira+Code&ext=contest&cache=1" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=317uexzzh7ohdi2esfx7jvzlgvna&width=350&count=4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317uexzzh7ohdi2esfx7jvzlgvna&width=350&count=4" width="100%" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h4>LeetCode Progress</h4>
+      <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=dark&font=Fira+Code&ext=contest&cache=1" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <h4>Recently Played</h4>
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=317uexzzh7ohdi2esfx7jvzlgvna&width=350&count=4" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Insights 
+### GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&theme=dark&icon_color=1E40AF&title_color=1E40AF&hide_border=true" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&title_color=1E40AF&hide_border=true&langs_count=6" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=dark&ring=1E40AF&fire=1E40AF&hide_border=true" width="100%"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="60%"><img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&theme=dark&icon_color=1E40AF&title_color=1E40AF&hide_border=true" width="100%"/></td>
+    <td width="40%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&title_color=1E40AF&hide_border=true&langs_count=6" width="100%"/></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=dark&ring=1E40AF&fire=1E40AF&hide_border=true" width="100%"/></td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="85%" />
   <br><br>
-  <h3>Thanks for visiting!</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=150&section=footer&text=SEE%20YOU%20AROUND&fontSize=40&fontColor=ffffff" width="100%" />
+  <h3>Thanks for visiting</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=120&section=footer&text=SEE%20YOU%20AROUND&fontSize=30&fontColor=ffffff" width="100%" />
   <p><i>Built by Tushar Y Nayaka</i></p>
 </div>
