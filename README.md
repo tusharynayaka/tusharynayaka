@@ -2,26 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=150&section=header&text=WELCOME&fontSize=40&fontColor=ffffff" width="100%" />
 </div>
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="240" align="center" valign="middle">
-      <img src="https://img.freepik.com/free-vector/cute-cat-playing-laptop-stomach-cartoon-vector-icon-illustration-animal-technology-isolated-flat_138676-14156.jpg?semt=ais_hybrid&w=740&q=80" width="200" style="border-radius:15px;"/>
-    </td>
-    <td width="450" valign="top" style="padding-left: 20px;">
-      <h1>Hello, I’m Tushar Y Nayaka</h1>
-      <p><b>Computer Science Engineering Student | Bengaluru, India</b></p>
-      <p>I am a developer focusing on building high-performance applications and contributing to the open-source community. I enjoy turning complex logic into simple, effective real-world solutions.</p>
-      
-      <a href="https://tusharynayaka.vercel.app"><img src="https://skillicons.dev/icons?i=vite" width="32" alt="Portfolio" /></a>
-      <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn" /></a>
-      <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="32" alt="GitHub" /></a>
-      <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="32" alt="Email" /></a>
-      
-      <br><br>
-      <img src="https://komarev.com/ghpvc/?username=tusharynayaka&label=Profile%20views&color=1E40AF&style=flat" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| | |
+|:---|:---:|
+| <h1>Hello, I’m Tushar Y Nayaka</h1> <p><b>Computer Science Engineering Student \| Bengaluru, India</b></p> <p>I am a developer focusing on building high-performance applications and contributing to the open-source community. I enjoy turning complex logic into simple, effective real-world solutions.</p> <a href="https://tusharynayaka.vercel.app"><img src="https://skillicons.dev/icons?i=vite" width="32" /></a> <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="32" /></a> <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="32" /></a> <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="32" /></a> <br><br> <img src="https://komarev.com/ghpvc/?username=tusharynayaka&label=Profile%20views&color=1E40AF&style=flat" /> | <img src="https://img.freepik.com/free-vector/cute-cat-playing-laptop-stomach-cartoon-vector-icon-illustration-animal-technology-isolated-flat_138676-14156.jpg?semt=ais_hybrid&w=740&q=80" width="200" style="border-radius:15px;"/> |
+
+</div>
 
 ---
 
@@ -69,6 +56,22 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="40%" valign="middle">
+      <img src="https://via.placeholder.com/300x180/1E40AF/FFFFFF?text=TerraAlertum" width="100%" style="border-radius:10px; border:1px solid #1E40AF;" />
+    </td>
+    <td width="60%" valign="top" style="padding-left:15px;">
+      <h4>TerraAlertum</h4>
+      <p>An innovative project focused on environmental alerts and data visualization.</p>
+      <a href="#"><b>Live Demo</b></a> | <a href="https://github.com/tusharynayaka"><b>GitHub Repo</b></a>
+    </td>
+  </tr>
+</table>
+
 </details>
 
 ---
