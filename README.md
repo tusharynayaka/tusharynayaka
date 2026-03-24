@@ -1,6 +1,6 @@
 <table>
-<tr>
-<td width="65%" valign="top">
+  <tr>
+    <td width="65%" valign="top">
 
 # Hello, I’m Tushar Y Nayaka
 
@@ -10,23 +10,23 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 
 **Connect with me:**
 <p align="left">
-<a href="https://tusharynayaka.vercel.app">
-  <img src="https://tusharynayaka.vercel.app/vite.svg" width="30" height="30" alt="portfolio logo" />
-</a>
- <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" /></a>  
- <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" /></a>  
- <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="30" height="30" /></a>
- <a href="https://leetcode.com/u/Tushar_Y_Nayaka/"><img src="https://skillicons.dev/icons?i=leetcode" width="30" height="30" /></a>
+  <a href="https://tusharynayaka.vercel.app">
+    <img src="https://tusharynayaka.vercel.app/vite.svg" width="30" height="30" alt="portfolio logo" />
+  </a>
+  <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" /></a>  
+  <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" /></a>  
+  <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="30" height="30" /></a>
+  <a href="https://leetcode.com/u/Tushar_Y_Nayaka/"><img src="https://skillicons.dev/icons?i=leetcode" width="30" height="30" /></a>
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=tusharynayaka&label=Profile%20views&color=1E40AF&style=flat" alt="visitor-counter" />
 </p>
 
-</td>
+    </td>
 
-<td width="35%" align="center" valign="middle">
-  <img src="https://img.freepik.com/free-vector/cute-cat-playing-laptop-stomach-cartoon-vector-icon-illustration-animal-technology-isolated-flat_138676-14156.jpg?semt=ais_hybrid&w=740&q=80" width="100%" style="border-radius:15px;"/>
-</td>
-</tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://img.freepik.com/free-vector/cute-cat-playing-laptop-stomach-cartoon-vector-icon-illustration-animal-technology-isolated-flat_138676-14156.jpg?semt=ais_hybrid&w=740&q=80" width="100%" style="border-radius:15px;"/>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -49,8 +49,8 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 
 ### GitHub Insights 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&title_color=1E40AF&icon_color=1E40AF&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&ring=1E40AF&fire=1E40AF&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&title_color=1E40AF&icon_color=1E40AF&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&ring=1E40AF&fire=1E40AF&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 ---
