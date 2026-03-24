@@ -6,7 +6,7 @@
 
 | | |
 |:---|:---:|
-| <h1>Hello, I’m Tushar Y Nayaka</h1> <p><b>Computer Science Engineering Student \| Bengaluru, India</b></p> <p>I am a developer focusing on building high-performance applications and contributing to the open-source community. I enjoy turning complex logic into simple, effective real-world solutions.</p> <a href="https://tusharynayaka.vercel.app"><img src="https://skillicons.dev/icons?i=vite" width="32" /></a> <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="32" /></a> <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="32" /></a> <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="32" /></a> <br><br> <img src="https://komarev.com/ghpvc/?username=tusharynayaka&label=Profile%20views&color=1E40AF&style=flat" /> | <img src="https://img.freepik.com/free-vector/cute-cat-playing-laptop-stomach-cartoon-vector-icon-illustration-animal-technology-isolated-flat_138676-14156.jpg?semt=ais_hybrid&w=740&q=80" width="200" style="border-radius:15px;"/> |
+| <h1>Hello, I’m Tushar Y Nayaka</h1> <p><b>Computer Science Engineering Student \| Bengaluru, India</b></p> <p>I am a developer focusing on building high-performance applications and contributing to the open-source community. I enjoy turning complex logic into simple, effective real-world solutions.</p> <p align="left"> <a href="https://tusharynayaka.vercel.app"><img src="https://skillicons.dev/icons?i=vite" width="35" /></a> <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="35" /></a> <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="35" /></a> <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" /></a> </p> <img src="https://komarev.com/ghpvc/?username=tusharynayaka&label=Profile%20views&color=1E40AF&style=flat" /> | <img src="https://tusharynayaka.vercel.app/vite.svg" width="220" style="border-radius:15px; background: #000; padding: 10px;"/> |
 
 </div>
 
@@ -28,13 +28,30 @@
 <table width="100%">
   <tr>
     <td width="40%" valign="middle">
+      <a href="https://terraalertum.vercel.app/">
+        <img src="https://api.microlink.io/?url=https%3A%2F%2Fterraalertum.vercel.app&screenshot=true&embed=screenshot.url" width="100%" style="border-radius:10px; border:1px solid #1E40AF;" />
+      </a>
+    </td>
+    <td width="60%" valign="top" style="padding-left:15px;">
+      <h4>TerraAlertum</h4>
+      <p>An interactive platform designed to monitor and report environmental changes, helping users stay informed about local ecological alerts.</p>
+      <a href="https://terraalertum.vercel.app/"><b>Live Demo</b></a> | <a href="https://github.com/tusharynayaka"><b>GitHub Repo</b></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="40%" valign="middle">
       <a href="https://tusharynayaka.vercel.app">
         <img src="https://api.microlink.io/?url=https%3A%2F%2Ftusharynayaka.vercel.app&screenshot=true&embed=screenshot.url" width="100%" style="border-radius:10px; border:1px solid #1E40AF;" />
       </a>
     </td>
     <td width="60%" valign="top" style="padding-left:15px;">
       <h4>Personal Portfolio</h4>
-      <p>A modern responsive portfolio built using the MERN stack.</p>
+      <p>A modern responsive portfolio built using the MERN stack to showcase my software engineering journey.</p>
       <a href="https://tusharynayaka.vercel.app"><b>Live Demo</b></a> | <a href="https://github.com/tusharynayaka"><b>GitHub Repo</b></a>
     </td>
   </tr>
@@ -51,23 +68,8 @@
     </td>
     <td width="60%" valign="top" style="padding-left:15px;">
       <h4>MeetMate</h4>
-      <p>Smart location-based tool for finding optimal meeting points.</p>
+      <p>A smart location-based tool designed to find the optimal meeting points between multiple users.</p>
       <a href="https://meetmate-eight.vercel.app/"><b>Live Demo</b></a> | <a href="https://github.com/tusharynayaka"><b>GitHub Repo</b></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table width="100%">
-  <tr>
-    <td width="40%" valign="middle">
-      <img src="https://via.placeholder.com/300x180/1E40AF/FFFFFF?text=TerraAlertum" width="100%" style="border-radius:10px; border:1px solid #1E40AF;" />
-    </td>
-    <td width="60%" valign="top" style="padding-left:15px;">
-      <h4>TerraAlertum</h4>
-      <p>An innovative project focused on environmental alerts and data visualization.</p>
-      <a href="#"><b>Live Demo</b></a> | <a href="https://github.com/tusharynayaka"><b>GitHub Repo</b></a>
     </td>
   </tr>
 </table>
