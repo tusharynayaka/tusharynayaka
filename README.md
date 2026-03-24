@@ -40,23 +40,6 @@
 <table width="100%">
   <tr>
     <td width="40%" valign="middle">
-      <a href="https://terraalertum.vercel.app/">
-        <img src="https://api.microlink.io/?url=https%3A%2F%2Fterraalertum.vercel.app&screenshot=true&embed=screenshot.url" width="100%" style="border-radius:10px; border:1px solid #1E40AF;" />
-      </a>
-    </td>
-    <td width="60%" valign="top" style="padding-left:15px;">
-      <h4>TerraAlertum</h4>
-      <p>An interactive platform designed to monitor and report environmental changes, helping users stay informed about local ecological alerts.</p>
-      <a href="https://terraalertum.vercel.app/"><b>Live Demo</b></a> | <a href="https://github.com/tusharynayaka"><b>GitHub Repo</b></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table width="100%">
-  <tr>
-    <td width="40%" valign="middle">
       <a href="https://tusharynayaka.vercel.app">
         <img src="https://api.microlink.io/?url=https%3A%2F%2Ftusharynayaka.vercel.app&screenshot=true&embed=screenshot.url" width="100%" style="border-radius:10px; border:1px solid #1E40AF;" />
       </a>
@@ -64,7 +47,12 @@
     <td width="60%" valign="top" style="padding-left:15px;">
       <h4>Personal Portfolio</h4>
       <p>A modern responsive portfolio built using the MERN stack to showcase my software engineering journey.</p>
-      <a href="https://tusharynayaka.vercel.app"><b>Live Demo</b></a> | <a href="https://github.com/tusharynayaka"><b>GitHub Repo</b></a>
+      <a href="https://tusharynayaka.vercel.app">
+        <img src="https://img.shields.io/badge/Live%20Demo-1E40AF?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <a href="https://github.com/tusharynayaka">
+        <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
@@ -81,7 +69,34 @@
     <td width="60%" valign="top" style="padding-left:15px;">
       <h4>MeetMate</h4>
       <p>A smart location-based tool designed to find the optimal meeting points between multiple users.</p>
-      <a href="https://meetmate-eight.vercel.app/"><b>Live Demo</b></a> | <a href="https://github.com/tusharynayaka"><b>GitHub Repo</b></a>
+      <a href="https://meetmate-eight.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-1E40AF?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <a href="https://github.com/tusharynayaka">
+        <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="40%" valign="middle">
+      <a href="https://terraalertum.vercel.app/">
+        <img src="https://api.microlink.io/?url=https%3A%2F%2Fterraalertum.vercel.app&screenshot=true&embed=screenshot.url" width="100%" style="border-radius:10px; border:1px solid #1E40AF;" />
+      </a>
+    </td>
+    <td width="60%" valign="top" style="padding-left:15px;">
+      <h4>TerraAlertum</h4>
+      <p>An interactive platform designed to monitor and report environmental changes, helping users stay informed about local ecological alerts.</p>
+      <a href="https://terraalertum.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-1E40AF?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <a href="https://github.com/tusharynayaka">
+        <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
