@@ -1,6 +1,6 @@
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="65%" valign="top">
+<table>
+<tr>
+<td width="65%" valign="top">
 
 # Hello, I’m Tushar Y Nayaka
 
@@ -10,22 +10,23 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 
 **Connect with me:**
 <p align="left">
-  <a href="https://tusharynayaka.vercel.app">
-    <img src="https://tusharynayaka.vercel.app/vite.svg" width="30" height="30" alt="portfolio logo" />
-  </a>
-  <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" /></a>  
-  <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" /></a>  
-  <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="30" height="30" /></a>
-  <a href="https://leetcode.com/u/Tushar_Y_Nayaka/"><img src="https://skillicons.dev/icons?i=leetcode" width="30" height="30" /></a>
+<a href="https://tusharynayaka.vercel.app">
+  <img src="https://tusharynayaka.vercel.app/vite.svg" width="30" height="30" alt="portfolio logo" />
+</a>
+ <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" /></a>  
+ <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" /></a>  
+ <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="30" height="30" /></a>
+ <a href="https://leetcode.com/u/Tushar_Y_Nayaka/"><img src="https://skillicons.dev/icons?i=leetcode" width="30" height="30" /></a>
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=tusharynayaka&label=Profile%20views&color=1E40AF&style=flat" alt="visitor-counter" />
 </p>
 
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://img.freepik.com/free-vector/cute-cat-playing-laptop-stomach-cartoon-vector-icon-illustration-animal-technology-isolated-flat_138676-14156.jpg?semt=ais_hybrid&w=740&q=80" width="100%" style="border-radius:15px; display:block;"/>
-    </td>
-  </tr>
+</td>
+
+<td width="35%" align="center" valign="middle">
+  <img src="https://img.freepik.com/free-vector/cute-cat-playing-laptop-stomach-cartoon-vector-icon-illustration-animal-technology-isolated-flat_138676-14156.jpg?semt=ais_hybrid&w=740&q=80" width="100%" style="border-radius:15px;"/>
+</td>
+</tr>
 </table>
 
 ---
@@ -47,25 +48,10 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 ---
 
 ### GitHub Insights 
-
-<div align="center">
-<table width="90%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=1E40AF&icon_color=1E40AF&bg_color=0d1117&hide_border=true&cache_seconds=1800" width="100%"/>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&title_color=1E40AF&bg_color=0d1117&hide_border=true&langs_count=6&cache_seconds=1800" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" width="100%" align="center">
-      <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=dark&ring=1E40AF&fire=1E40AF&currStreakLabel=1E40AF&hide_border=true&cache_seconds=1800" width="100%"/>
-    </td>
-  </tr>
-</table>
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&title_color=1E40AF&icon_color=1E40AF&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&ring=1E40AF&fire=1E40AF&hide_border=true&cache_seconds=1800" height="165"/>
+</p>
 
 ---
 
@@ -113,7 +99,7 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
   <tr>
     <td width="50%" align="center" valign="top">
       <h4>LeetCode Progress</h4>
-      <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=dark&font=Fira+Code&ext=contest&cache=1" width="100%" />
+      <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=light&font=Fira+Code&ext=contest&cache=1" width="100%" />
     </td>
     <td width="50%" align="center" valign="top">
       <h4>Recently Played</h4>
@@ -127,7 +113,7 @@ I enjoy turning complex logic into simple, effective real-world solutions. Wheth
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="85%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="85%" />
   <br><br>
   <h3>Thanks for visiting</h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=150&section=footer&text=SEE%20YOU%20AROUND&fontSize=40&fontColor=ffffff" width="100%" />
