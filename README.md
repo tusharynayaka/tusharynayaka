@@ -3,21 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://img.freepik.com/free-vector/cute-cat-playing-laptop-stomach-cartoon-vector-icon-illustration-animal-technology-isolated-flat_138676-14156.jpg?semt=ais_hybrid&w=740&q=80" width="300" style="border-radius:20px; margin-bottom: 20px;" />
 
-  # Hello, I’m Tushar Y Nayaka
-  **Computer Science Engineering Student | Bengaluru, India**
+| | |
+|:---|:---:|
+| <h1>Hello, I’m Tushar Y Nayaka</h1> <p><b>Computer Science Engineering Student \| Bengaluru, India</b></p> <p>I am a developer focusing on building high-performance applications and contributing to the open-source community. I enjoy turning complex logic into simple, effective real-world solutions.</p> <p align="left"> <a href="https://tusharynayaka.vercel.app"><img src="https://tusharynayaka.vercel.app/vite.svg" width="35" alt="Portfolio Logo" /></a> <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="35" /></a> <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="35" /></a> <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" /></a> </p> <img src="https://komarev.com/ghpvc/?username=tusharynayaka&label=Profile%20views&color=1E40AF&style=flat" /> | <img src="https://img.freepik.com/free-vector/cute-cat-playing-laptop-stomach-cartoon-vector-icon-illustration-animal-technology-isolated-flat_138676-14156.jpg?semt=ais_hybrid&w=740&q=80" width="220" style="border-radius:15px;"/> |
 
-  I am a developer focusing on building high-performance applications and contributing to the open-source community. I enjoy turning complex logic into simple, effective real-world solutions.
-
-  <p align="center">
-    <a href="https://tusharynayaka.vercel.app"><img src="https://tusharynayaka.vercel.app/vite.svg" width="35" alt="Portfolio Logo" /></a>
-    <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="35" /></a>
-    <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="35" /></a>
-    <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" /></a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=tusharynayaka&label=Profile%20views&color=1E40AF&style=flat" />
 </div>
 
 ---
@@ -107,17 +97,15 @@
 
 ### GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&theme=dark&icon_color=1E40AF&title_color=1E40AF&hide_border=true&cache_seconds=1800" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&title_color=1E40AF&hide_border=true&langs_count=6&cache_seconds=1800" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=dark&ring=1E40AF&fire=1E40AF&hide_border=true&cache_seconds=1800" width="100%"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="60%"><img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&theme=dark&icon_color=1E40AF&title_color=1E40AF&hide_border=true" width="100%"/></td>
+    <td width="40%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&title_color=1E40AF&hide_border=true&langs_count=6" width="100%"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=dark&ring=1E40AF&fire=1E40AF&hide_border=true" width="100%"/></td>
+  </tr>
+</table>
 
 ---
 
