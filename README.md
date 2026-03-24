@@ -107,22 +107,26 @@
 
 ### Competitive Programming and Rhythm
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
-    <td width="55%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h4>LeetCode Mastery</h4>
-      <p>
-        <img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-        <img src="https://img.shields.io/badge/Rating-2090-1E40AF?style=for-the-badge&logo=chart-line&logoColor=white" />
-      </p>
-      <a href="https://leetcode.com/Tushar_Y_Nayaka/">
-        <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=dark&font=Fira+Code&ext=contest" width="100%" />
-      </a>
-      <p><i>Top 1.6 percent Globally</i></p>
+      <div align="center">
+        <p>
+          <img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+          <img src="https://img.shields.io/badge/Rating-2090-1E40AF?style=for-the-badge&logo=chart-line&logoColor=white" />
+        </p>
+        <a href="https://leetcode.com/Tushar_Y_Nayaka/">
+          <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=dark&font=Fira+Code&ext=contest" width="100%" />
+        </a>
+        <p><i>Top 1.6 percent Globally</i></p>
+      </div>
     </td>
-    <td width="45%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h4>Recently Played</h4>
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=317uexzzh7ohdi2esfx7jvzlgvna&width=350&count=4" width="100%" />
+      <div align="center">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=317uexzzh7ohdi2esfx7jvzlgvna&width=350&count=4" width="100%" />
+      </div>
     </td>
   </tr>
 </table>
@@ -131,13 +135,20 @@
 
 ### GitHub Insights
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
-    <td width="60%"><img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&theme=dark&icon_color=1E40AF&title_color=1E40AF&hide_border=true" width="100%"/></td>
-    <td width="40%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&title_color=1E40AF&hide_border=true&langs_count=6" width="100%"/></td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&theme=dark&icon_color=1E40AF&title_color=1E40AF&hide_border=true" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&title_color=1E40AF&hide_border=true&langs_count=6" width="100%"/>
+    </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=dark&ring=1E40AF&fire=1E40AF&hide_border=true" width="100%"/></td>
+    <td colspan="2" align="center">
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=dark&ring=1E40AF&fire=1E40AF&hide_border=true" width="100%"/>
+    </td>
   </tr>
 </table>
 
