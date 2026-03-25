@@ -133,7 +133,9 @@
     <td colspan="2" align="center">
       <br />
       <h4>LeetCode Activity Map</h4>
-      <img src="https://leetcode-stats-six.vercel.app/api?username=Tushar_Y_Nayaka&theme=dark" width="100%" />
+      <a href="https://leetcode.com/Tushar_Y_Nayaka/">
+        <img src="https://leetcode-badge.vercel.app/api/users/Tushar_Y_Nayaka/calendar?theme=dark" width="100%" />
+      </a>
     </td>
   </tr>
 </table>
