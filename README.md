@@ -132,8 +132,8 @@
   <tr>
     <td colspan="2" align="center">
       <br />
-      <h4>LeetCode Submission Map</h4>
-      <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=dark&ext=activity" width="100%" />
+      <h4>LeetCode Activity Heatmap</h4>
+      <img src="https://leetcode-stats-github-cloud.vercel.app/api?username=Tushar_Y_Nayaka&theme=dark" width="100%" />
     </td>
   </tr>
 </table>
