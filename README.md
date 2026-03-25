@@ -129,6 +129,13 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br />
+      <h4>LeetCode Activity Map</h4>
+      <img src="https://leetcode-stats-six.vercel.app/api?username=Tushar_Y_Nayaka&theme=dark" width="100%" />
+    </td>
+  </tr>
 </table>
 
 ---
