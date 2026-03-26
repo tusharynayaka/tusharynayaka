@@ -138,7 +138,7 @@
 <table width="100%" align="center">
   <tr>
     <td width="48%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&theme=dark&hide_border=true&title_color=1E40AF&icon_color=1E40AF&bg_color=0d1117&cache_seconds=1800" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&theme=dark&hide_border=true&title_color=1E40AF&icon_color=1E40AF&bg_color=0d1117&cache_seconds=600&custom_title=My%20Stats" width="100%" alt="GitHub Stats" />
     </td>
     <td width="48%" align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&hide_border=true&title_color=1E40AF&bg_color=0d1117&cache_seconds=1800" width="100%" alt="Top Languages" />
