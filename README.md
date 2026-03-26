@@ -9,7 +9,7 @@
       <p><b>Computer Science Engineering Student | Bengaluru, India</b></p>
       <p>I am a developer focusing on building high-performance applications and contributing to the open-source community. I enjoy turning complex logic into simple, effective real-world solutions.</p>
       <p>
-        <a href="https://tusharynayaka.vercel.app"><img src="https://skillicons.dev/icons?i=react" width="35" alt="Portfolio" /></a>
+        <a href="https://tusharynayaka.vercel.app"><img src="./vite.svg" width="35" alt="Portfolio" /></a>
         <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn" /></a>
         <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="35" alt="GitHub" /></a>
         <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" alt="Email" /></a>
