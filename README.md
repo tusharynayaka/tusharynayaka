@@ -33,7 +33,7 @@
 
 ### Projects
 
-<details open>
+<details>
 <summary><b>Click to View Projects</b></summary>
 <br/>
 
@@ -41,7 +41,7 @@
   <tr>
     <td width="40%" valign="middle" align="center">
       <a href="https://tusharynayaka.vercel.app">
-        <img src="./logo.svg" width="80%" style="border-radius:10px; border:1px solid #1E40AF;" alt="Portfolio Logo" />
+        <img src="https://raw.githubusercontent.com/tusharynayaka/Portfolio/d9f9fde2d3aa51dc6044673ba2aaa95ac78adae5/public/vite.svg?token=BXQPTT3UZCSHEM7M626SSG3JYVVYI" width="70%" style="border-radius:10px;" alt="Portfolio Logo" />
       </a>
     </td>
     <td width="60%" valign="top" style="padding-left:15px;">
@@ -137,10 +137,10 @@
 
 <table width="100%" align="center">
   <tr>
-    <td width="50%" align="center">
+    <td width="48%" align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&theme=dark&hide_border=true&title_color=1E40AF&icon_color=1E40AF" width="100%" alt="GitHub Stats" />
     </td>
-    <td width="50%" align="center">
+    <td width="48%" align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&hide_border=true&title_color=1E40AF" width="100%" alt="Top Languages" />
     </td>
   </tr>
