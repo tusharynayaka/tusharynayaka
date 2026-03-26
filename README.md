@@ -33,15 +33,15 @@
 
 ### Projects
 
-<details>
+<details open>
 <summary><b>Click to View Projects</b></summary>
 <br/>
 
 <table width="100%">
   <tr>
-    <td width="40%" valign="middle">
+    <td width="40%" valign="middle" align="center">
       <a href="https://tusharynayaka.vercel.app">
-        <img src="https://api.microlink.io/?url=https%3A%2F%2Ftusharynayaka.vercel.app&screenshot=true&embed=screenshot.url" width="100%" style="border-radius:10px; border:1px solid #1E40AF;" alt="Project 1" />
+        <img src="./logo.svg" width="80%" style="border-radius:10px; border:1px solid #1E40AF;" alt="Portfolio Logo" />
       </a>
     </td>
     <td width="60%" valign="top" style="padding-left:15px;">
@@ -138,10 +138,10 @@
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&include_all_commits=true&count_private=true&theme=dark&icon_color=1E40AF&title_color=1E40AF&hide_border=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&theme=dark&hide_border=true&title_color=1E40AF&icon_color=1E40AF" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&title_color=1E40AF&hide_border=true&langs_count=6" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&hide_border=true&title_color=1E40AF" width="100%" alt="Top Languages" />
     </td>
   </tr>
   <tr>
