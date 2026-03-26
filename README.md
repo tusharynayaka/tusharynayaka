@@ -41,7 +41,7 @@
   <tr>
     <td width="40%" valign="middle" align="center">
       <a href="https://tusharynayaka.vercel.app">
-        <img src="https://raw.githubusercontent.com/tusharynayaka/Portfolio/d9f9fde2d3aa51dc6044673ba2aaa95ac78adae5/public/vite.svg?token=BXQPTT3UZCSHEM7M626SSG3JYVVYI" width="70%" style="border-radius:10px;" alt="Portfolio Logo" />
+        <img src="./vite.svg" width="70%" style="border-radius:10px;" alt="Portfolio Logo" />
       </a>
     </td>
     <td width="60%" valign="top" style="padding-left:15px;">
@@ -138,16 +138,16 @@
 <table width="100%" align="center">
   <tr>
     <td width="48%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&theme=dark&hide_border=true&title_color=1E40AF&icon_color=1E40AF" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=tusharynayaka&show_icons=true&theme=dark&hide_border=true&title_color=1E40AF&icon_color=1E40AF&bg_color=0d1117" width="100%" alt="GitHub Stats" />
     </td>
     <td width="48%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&hide_border=true&title_color=1E40AF" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&hide_border=true&title_color=1E40AF&bg_color=0d1117" width="100%" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=dark&ring=1E40AF&fire=1E40AF&hide_border=true" width="100%" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=dark&ring=1E40AF&fire=1E40AF&hide_border=true&background=0d1117" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
