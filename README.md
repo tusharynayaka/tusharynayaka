@@ -26,7 +26,7 @@
 
 ### Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,nodejs,express,mongodb,mysql,postgres,git,github,vscode,postman" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,nodejs,express,mongodb,mysql,postgres,git,github,vscode,postman,solidity" alt="My Skills" />
 </p>
 
 ---
@@ -36,6 +36,25 @@
 <details>
 <summary><b>Click to View Projects</b></summary>
 <br/>
+
+<div align="left">
+  <a href="https://ethos-ledger.vercel.app">
+    <img src="https://api.microlink.io/?url=https%3A%2F%2Fethos-ledger.vercel.app&screenshot=true&embed=screenshot.url" align="left" width="380" style="border-radius:10px; border:1px solid #1E40AF; margin-right: 20px; margin-bottom: 20px;" alt="EthosLedger Live View" />
+  </a>
+  <div style="display: inline-block;">
+    <h4>EthosLedger (Hackathon MVP)</h4>
+    <p>A decentralized approach to academic and professional credentialing for Genesys 2.0. Built with Blockchain for secure, immutable verification.</p>
+    <a href="https://ethos-ledger.vercel.app">
+      <img src="https://img.shields.io/badge/Live%20Demo-1E40AF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    </a>
+    <a href="https://github.com/tusharynayaka/EthosLedger">
+      <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </div>
+</div>
+
+<br clear="left"/>
+<hr/>
 
 <div align="left">
   <a href="https://tusharynayaka.vercel.app">
