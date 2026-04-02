@@ -76,9 +76,7 @@
 <br clear="left"/><hr/>
 
 <div align="left">
-  <div style="float: left; width: 380px; height: 215px; background: #0d1117; border: 1px solid #1E40AF; border-radius: 10px; margin-right: 20px; margin-bottom: 20px; display: flex; align-items: center; justify-content: center;">
-     <img src="https://skillicons.dev/icons?i=py,tensorflow" width="120" alt="AI Research Icon" />
-  </div>
+  <img src="https://skillicons.dev/icons?i=py,tensorflow" align="left" width="380" style="padding: 40px; background: #0d1117; border-radius:10px; border:1px solid #1E40AF; margin-right: 20px; margin-bottom: 20px;" alt="AI Research" />
   <div style="display: inline-block;">
     <h4>Emotion and Attention AI</h4>
     <p>Real-time AI system analyzing facial expressions and gaze for engagement monitoring. Focused on EdTech and focus-tracking.</p>
