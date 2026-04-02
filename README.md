@@ -33,8 +33,8 @@
 
 ### Featured Projects
 
-<details open>
-<summary><b>Click to Expand/Collapse Projects</b></summary>
+<details>
+<summary><b>Click to View Projects</b></summary>
 <br/>
 
 <div align="left">
@@ -77,11 +77,11 @@
 
 <div align="left">
   <div style="float: left; width: 380px; height: 215px; background: #0d1117; border: 1px solid #1E40AF; border-radius: 10px; margin-right: 20px; margin-bottom: 20px; display: flex; align-items: center; justify-content: center;">
-     <img src="https://img.icons8.com/ios/100/1E40AF/brain-research.png" alt="Research Icon" />
+     <img src="https://skillicons.dev/icons?i=py,tensorflow" width="120" alt="AI Research Icon" />
   </div>
   <div style="display: inline-block;">
-    <h4>Emotion & Attention AI</h4>
-    <p>Real-time AI system analyzing facial expressions and gaze for engagement monitoring. Focused on EdTech & focus-tracking.</p>
+    <h4>Emotion and Attention AI</h4>
+    <p>Real-time AI system analyzing facial expressions and gaze for engagement monitoring. Focused on EdTech and focus-tracking.</p>
     <img src="https://img.shields.io/badge/Status-Research%20Paper-blueviolet?style=flat-square" alt="Status" />
     <img src="https://img.shields.io/badge/Tech-Python%20|%20Deep%20Learning-1E40AF?style=flat-square" alt="Tech" /><br><br>
     <img src="https://img.shields.io/badge/Source-Private-gray?style=for-the-badge&logo=github" alt="Private" />
@@ -178,3 +178,13 @@
     </td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="85%" alt="Quote" />
+  <br><br>
+  <h3>Thanks for visiting</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=120&section=footer&text=SEE%20YOU%20AROUND&fontSize=30&fontColor=ffffff" width="100%" />
+  <p><i>Built by Tushar Y Nayaka</i></p>
+</div>
