@@ -127,10 +127,10 @@
 ### GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharynayaka&bg_color=0d1117&color=1E40AF&line=1E40AF&point=ffffff&area=true&hide_border=true" width="100%" height="150px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharynayaka&bg_color=0d1117&color=1E40AF&line=1E40AF&point=ffffff&area=true&hide_border=true&cache_seconds=1800" width="100%" height="150px" />
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tusharynayaka&show_icons=true&theme=dark&hide_border=true&title_color=1E40AF&icon_color=1E40AF&bg_color=0d1117" height="135px" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&hide_border=true&title_color=1E40AF&bg_color=0d1117" height="135px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tusharynayaka&show_icons=true&theme=dark&hide_border=true&title_color=1E40AF&icon_color=1E40AF&bg_color=0d1117&cache_seconds=1800" height="135px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&hide_border=true&title_color=1E40AF&bg_color=0d1117&cache_seconds=1800" height="135px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=dark&ring=1E40AF&fire=1E40AF&hide_border=true&background=0d1117" height="135px" />
 </div>
 
