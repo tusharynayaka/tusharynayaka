@@ -127,6 +127,8 @@
 ### GitHub Insights
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharynayaka&bg_color=0d1117&color=1E40AF&line=1E40AF&point=ffffff&area=true&hide_border=true" width="100%" />
+  <br/><br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tusharynayaka&show_icons=true&theme=dark&hide_border=true&title_color=1E40AF&icon_color=1E40AF&bg_color=0d1117" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&hide_border=true&title_color=1E40AF&bg_color=0d1117" width="48%" />
   <br/><br/>
