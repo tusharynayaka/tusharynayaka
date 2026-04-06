@@ -89,7 +89,7 @@
 </div>
 <br clear="left"/><hr/>
 
-<div align="left">
+<!-- <div align="left">
   <a href="https://terraalertum.vercel.app/">
     <img src="https://api.microlink.io/?url=https%3A%2F%2Fterraalertum.vercel.app&screenshot=true&embed=screenshot.url" align="left" width="380" style="border-radius:10px; border:1px solid #1E40AF; margin-right: 20px; margin-bottom: 20px;" alt="TerraAlertum" />
   </a>
@@ -98,7 +98,7 @@
     <p>Interactive platform designed to monitor and report environmental changes.</p>
     <img src="https://img.shields.io/badge/Status-Silicon%20Rush%203.0-lightgrey?style=flat-square" /><br><br>
     <a href="https://github.com/tusharynayaka/TerraAlterum"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </div>
+  </div> -->
 </div>
 <br clear="left"/>
 </details>
