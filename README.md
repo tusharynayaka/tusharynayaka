@@ -9,7 +9,7 @@
       <p><b>Computer Science Engineering Student | Bengaluru, India</b></p>
       <p>I am a developer focusing on building high-performance applications and contributing to the open-source community. I enjoy turning complex logic into simple, effective real-world solutions.</p>
       <p>
-        <a href="https://tusharynayaka.vercel.app"><img src="https://raw.githubusercontent.com/vitejs/vite/main/packages/vite/src/node/server/index.ts" width="35" alt="Portfolio" /></a>
+        <a href="https://tusharynayaka.vercel.app"><img src="https://skillicons.dev/icons?i=vite" width="35" alt="Portfolio" /></a>
         <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn" /></a>
         <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="35" alt="GitHub" /></a>
         <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" alt="Email" /></a>
@@ -117,6 +117,8 @@
 ### GitHub Insights
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/github-contribution-graph?username=tusharynayaka&theme=dark&hide_border=true&color=1E40AF&point=ffffff" width="100%" alt="Monthly Contribution Graph" />
+  <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tusharynayaka&show_icons=true&theme=dark&hide_border=true&title_color=1E40AF&icon_color=1E40AF&bg_color=0d1117&cache_seconds=1800" height="135px" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tusharynayaka&layout=compact&theme=dark&hide_border=true&title_color=1E40AF&bg_color=0d1117&cache_seconds=1800" height="135px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharynayaka&theme=dark&ring=1E40AF&fire=1E40AF&hide_border=true&background=0d1117" height="135px" />
