@@ -69,7 +69,7 @@
   <img src="https://skillicons.dev/icons?i=py,tensorflow" align="left" width="380" style="padding: 40px; background: #0d1117; border-radius:10px; border:1px solid #1E40AF; margin-right: 20px; margin-bottom: 20px;" alt="AI Research" />
   <div style="display: inline-block;">
     <h4>Emotion and Attention AI</h4>
-    <p>Real-time AI system analyzing facial expressions and gaze for engagement monitoring.</p>
+    <p>Research : Real-time AI system analyzing facial expressions and gaze for engagement monitoring.</p>
     <img src="https://img.shields.io/badge/Status-Research%20Paper-blueviolet?style=flat-square" />
     <img src="https://img.shields.io/badge/Tech-Python%20|%20Deep%20Learning-1E40AF?style=flat-square" />
   </div>
