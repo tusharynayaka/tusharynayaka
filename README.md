@@ -26,7 +26,7 @@
 
 ### 🏆 Achievements & Activity
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tusharynayaka&theme=dracula&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tusharynayaka&theme=dracula&no-bg=true&column=7" alt="Trophies" />
 </div>
 
 ---
@@ -44,8 +44,8 @@
 
 ### 🚀 Featured Projects
 
-<details open>
-<summary><b>Click to Toggle Projects</b></summary>
+<details>
+<summary><b>Click to View My Work</b></summary>
 <br/>
 
 <div align="left">
