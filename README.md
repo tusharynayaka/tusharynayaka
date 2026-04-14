@@ -50,6 +50,19 @@
   </div>
 </div>
 <br clear="left"/><hr/>
+<div align="left">
+  <a href="https://nadir-tyn.vercel.app/">
+    <img src="https://api.microlink.io/?url=https%3A%2F%2Fnadir-tyn.vercel.app%2F&screenshot=true&embed=screenshot.url" align="left" width="380" style="border-radius:10px; border:1px solid #1E40AF; margin-right: 20px; margin-bottom: 20px;" alt="Nadir" />
+  </a>
+  <div style="display: inline-block;">
+    <h4>Nadir</h4>
+    <p>Wolrd mapped news agent under work too be fully deployed soon.</p>
+    <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
+    <img src="https://img.shields.io/badge/Tech-React%20|%20Tailwind-1E40AF?style=flat-square" /><br><br>
+    <a href="https://nadir-tyn.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-1E40AF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  </div>
+</div>
+<br clear="left"/><hr/>
 
 <div align="left">
   <a href="https://ethos-ledger.vercel.app">
