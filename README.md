@@ -11,7 +11,7 @@
       <p>
         <a href="https://tusharynayaka.vercel.app"><img src="./vite.svg" width="35" alt="Portfolio" /></a>
         <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn" /></a>
-        <a href="https://github.com/tusharynayaka"><img src="https://skillicons.dev/icons?i=github" width="35" alt="GitHub" /></a>
+        <a href="https://www.instagram.com/tushar._.at_ease?igsi=MWI0czc0dHR4YnJ3bQ=="><img src="https://skillicons.dev/icons?i=github" width="35" alt="GitHub" /></a>
         <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" alt="Email" /></a>
       </p>
       <img src="https://komarev.com/ghpvc/?username=tusharynayaka&color=1E40AF&style=flat&label=Profile+Views" alt="Profile Views" />
