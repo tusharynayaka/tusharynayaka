@@ -26,7 +26,7 @@
 
 ### Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,react,nodejs,mongodb,git,github" alt="My Skills" />
 </p>
 
 ---
