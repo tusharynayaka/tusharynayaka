@@ -39,29 +39,29 @@ const tushar = {
 
 | Project | Stack | Status | Links |
 | --- | --- | --- | --- |
-| **Heimdall** | MERN, Socket.io | In development | [Live](https://heimdall-tyn.vercel.app/) |
 | **Firmitas** | React, Math.js | Production | [Live](https://firmitas.vercel.app/) · [Code](https://github.com/tusharynayaka/Firmitas) |
-| **Orbit** | MERN, Socket.io | In development | [Live](https://orbittyn.vercel.app/) |
+<!---| **Orbit** | MERN, Socket.io | In development | [Live](https://orbittyn.vercel.app/) |
 | **Nadir** | React, Tailwind | In development | [Live](https://nadir-tyn.vercel.app/) · [Code](https://github.com/tusharynayaka/Nadir) |
 | **MeetMate** | React, Maps API | Hackathon (Modifications Underway) | [Live](https://meetmate-eight.vercel.app/) · [Code](https://github.com/tusharynayaka/MeetMate) |
 | **EthosLedger** | Blockchain, Node.js | Hackathon | [Live](https://ethos-ledger.vercel.app) · [Code](https://github.com/tusharynayaka/EthosLedger) |
+<!---| **Heimdall** | MERN, Socket.io | In development | [Live](https://heimdall-tyn.vercel.app/) |--->
 
 <details>
 <summary><b>Show live previews</b></summary>
 <br>
 
 <table>
-  <tr>
+  <!--<tr>
     <td width="50%" valign="top" align="center">
       <a href="https://heimdall-tyn.vercel.app/"><img src="https://api.microlink.io/?url=https%3A%2F%2Fheimdall-tyn.vercel.app%2F&screenshot=true&embed=screenshot.url" alt="Heimdall" /></a>
       <br><b>Heimdall</b>
-    </td>
+    </td>-->
     <td width="50%" valign="top" align="center">
       <a href="https://firmitas.vercel.app/"><img src="https://api.microlink.io/?url=https%3A%2F%2Ffirmitas.vercel.app%2F&screenshot=true&embed=screenshot.url" alt="Firmitas" /></a>
       <br><b>Firmitas</b>
     </td>
   </tr>
-  <tr>
+  <!--<tr>
     <td width="50%" valign="top" align="center">
       <a href="https://orbittyn.vercel.app/"><img src="https://api.microlink.io/?url=https%3A%2F%2Forbittyn.vercel.app%2F&screenshot=true&embed=screenshot.url" alt="Orbit" /></a>
       <br><b>Orbit</b>
@@ -80,7 +80,7 @@ const tushar = {
       <a href="https://ethos-ledger.vercel.app"><img src="https://api.microlink.io/?url=https%3A%2F%2Fethos-ledger.vercel.app&screenshot=true&embed=screenshot.url" alt="EthosLedger" /></a>
       <br><b>EthosLedger</b>
     </td>
-  </tr>
+  </tr>-->
 </table>
 
 </details>
