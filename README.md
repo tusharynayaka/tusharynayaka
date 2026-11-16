@@ -1,189 +1,96 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=150&section=header&text=WELCOME&fontSize=40&fontColor=ffffff" width="100%" />
+  <table>
+    <tr>
+      <td width="180" align="center">
+        <img src="cat.png" width="150" alt="Profile Picture" />
+      </td>
+      <td align="left">
+        <h1>Tushar Y Nayaka</h1>
+        <p>
+          <a href="https://tusharynayaka.vercel.app">Portfolio</a> ·
+          <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b">LinkedIn</a> ·
+          <a href="mailto:tusharynayaka@gmail.com">Email</a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+---
+
+## About
+
+```ts
+const tushar = {
+  location: "Bengaluru, India",
+  studying: "Computer Science Engineering",
+  building: ["Heimdall", "Orbit", "Nadir"],
+  stack:    ["MERN", "Python", "LLM"],
+  hobbies:  ["competitive programming", "hackathons", "trying to solve messy problems into simple tools"],
+  openTo:   ["collaboration", "open source", "internships"],
+};
+```
+
+---
+
+## Featured projects
+
+| Project | Stack | Status | Links |
+| --- | --- | --- | --- |
+| **Heimdall** | MERN, Socket.io | In development | [Live](https://heimdall-tyn.vercel.app/) |
+| **Firmitas** | React, Math.js | Production | [Live](https://firmitas.vercel.app/) · [Code](https://github.com/tusharynayaka/Firmitas) |
+| **Orbit** | MERN, Socket.io | In development | [Live](https://orbittyn.vercel.app/) |
+| **Nadir** | React, Tailwind | In development | [Live](https://nadir-tyn.vercel.app/) · [Code](https://github.com/tusharynayaka/Nadir) |
+| **MeetMate** | React, Maps API | Hackathon (Modifications Underway) | [Live](https://meetmate-eight.vercel.app/) · [Code](https://github.com/tusharynayaka/MeetMate) |
+| **EthosLedger** | Blockchain, Node.js | Hackathon | [Live](https://ethos-ledger.vercel.app) · [Code](https://github.com/tusharynayaka/EthosLedger) |
+
+<details>
+<summary><b>Show live previews</b></summary>
+<br>
+
+<table>
   <tr>
-    <td align="left" width="70%" valign="top">
-      <h1>Hello, I am Tushar Y Nayaka</h1>
-      <p><b>Computer Science Engineering Student | Bengaluru, India</b></p>
-      <p>I am a developer focusing on building high-performance applications and contributing to the open-source community. I enjoy turning complex logic into simple, effective real-world solutions.</p>
-      <p>
-        <a href="https://tusharynayaka.vercel.app"><img src="./vite.svg" width="35" alt="Portfolio" /></a>
-        <a href="https://in.linkedin.com/in/tushar-y-nayaka-3668ba38b"><img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn" /></a>
-        <a href="https://www.instagram.com/tushar._.at_ease?igsi=MWI0czc0dHR4YnJ3bQ=="><img src="https://skillicons.dev/icons?i=instagram" width="35" alt="GitHub" /></a>
-        <a href="mailto:tusharynayaka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" alt="Email" /></a>
-      </p>
-      <img src="https://komarev.com/ghpvc/?username=tusharynayaka&color=1E40AF&style=flat&label=Profile+Views" alt="Profile Views" />
+    <td width="50%" valign="top" align="center">
+      <a href="https://heimdall-tyn.vercel.app/"><img src="https://api.microlink.io/?url=https%3A%2F%2Fheimdall-tyn.vercel.app%2F&screenshot=true&embed=screenshot.url" alt="Heimdall" /></a>
+      <br><b>Heimdall</b>
     </td>
-    <td align="right" width="30%" valign="middle">
-      <img src="cat.png" width="220" style="border-radius: 15px;" alt="Profile Decoration" />
+    <td width="50%" valign="top" align="center">
+      <a href="https://firmitas.vercel.app/"><img src="https://api.microlink.io/?url=https%3A%2F%2Ffirmitas.vercel.app%2F&screenshot=true&embed=screenshot.url" alt="Firmitas" /></a>
+      <br><b>Firmitas</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://orbittyn.vercel.app/"><img src="https://api.microlink.io/?url=https%3A%2F%2Forbittyn.vercel.app%2F&screenshot=true&embed=screenshot.url" alt="Orbit" /></a>
+      <br><b>Orbit</b>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://nadir-tyn.vercel.app/"><img src="https://api.microlink.io/?url=https%3A%2F%2Fnadir-tyn.vercel.app%2F&screenshot=true&embed=screenshot.url" alt="Nadir" /></a>
+      <br><b>Nadir</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://meetmate-eight.vercel.app/"><img src="https://api.microlink.io/?url=https%3A%2F%2Fmeetmate-eight.vercel.app&screenshot=true&embed=screenshot.url" alt="MeetMate" /></a>
+      <br><b>MeetMate</b>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://ethos-ledger.vercel.app"><img src="https://api.microlink.io/?url=https%3A%2F%2Fethos-ledger.vercel.app&screenshot=true&embed=screenshot.url" alt="EthosLedger" /></a>
+      <br><b>EthosLedger</b>
     </td>
   </tr>
 </table>
-
----
-
-### Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,react,nodejs,mongodb,git,github" alt="My Skills" />
-</p>
-
----
-
-### Featured Projects
-
-<details>
-<summary><b>Click to View Projects</b></summary>
-<br/>
-
-<!-- Heimdall -->
-<div align="left">
-  <a href="https://heimdall-tyn.vercel.app/">
-    <img src="https://api.microlink.io/?url=https%3A%2F%2Fheimdall-tyn.vercel.app%2F&screenshot=true&embed=screenshot.url" align="left" width="380" style="border-radius:10px; border:1px solid #1E40AF; margin-right: 20px; margin-bottom: 20px;" alt="Heimdall" />
-  </a>
-  <div style="display: inline-block;">
-    <h4>Heimdall</h4>
-    <p>Navigate codebases like never before. Point it at a repo. Get back a map instead of a folder tree.</p>
-    <img src="https://img.shields.io/badge/Status-Development-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/Tech-MERN%20%7C%20Socket.io-1E40AF?style=flat-square" /><br><br>
-    <a href="https://heimdall-tyn.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-1E40AF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  </div>
-</div>
-<br clear="left"/><hr/>
-
-<!-- Firmitas -->
-<div align="left">
-  <a href="https://firmitas.vercel.app/">
-    <img src="https://api.microlink.io/?url=https%3A%2F%2Ffirmitas.vercel.app%2F&screenshot=true&embed=screenshot.url" align="left" width="380" style="border-radius:10px; border:1px solid #1E40AF; margin-right: 20px; margin-bottom: 20px;" alt="Firmitas" />
-  </a>
-  <div style="display: inline-block;">
-    <h4>Firmitas</h4>
-    <p>Structural Analysis Suite for Modern Engineering.</p>
-    <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" />
-    <img src="https://img.shields.io/badge/Tech-React%20%7C%20Math.js-1E40AF?style=flat-square" /><br><br>
-    <a href="https://firmitas.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-1E40AF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    <a href="https://github.com/tusharynayaka/Firmitas.git"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </div>
-</div>
-<br clear="left"/><hr/>
-
-<!-- Orbit -->
-<div align="left">
-  <a href="https://orbittyn.vercel.app/">
-    <img src="https://api.microlink.io/?url=https%3A%2F%2Forbittyn.vercel.app%2F&screenshot=true&embed=screenshot.url" align="left" width="380" style="border-radius:10px; border:1px solid #1E40AF; margin-right: 20px; margin-bottom: 20px;" alt="Orbit" />
-  </a>
-  <div style="display: inline-block;">
-    <h4>Orbit</h4>
-    <p>Unified ecosystem for campus commerce and ride-pooling via domain-verified networks.</p>
-    <img src="https://img.shields.io/badge/Status-Development-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/Tech-MERN%20%7C%20Socket.io-1E40AF?style=flat-square" /><br><br>
-    <a href="https://orbittyn.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-1E40AF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  </div>
-</div>
-<br clear="left"/><hr/>
-
-<!-- Nadir -->
-<div align="left">
-  <a href="https://nadir-tyn.vercel.app/">
-    <img src="https://api.microlink.io/?url=https%3A%2F%2Fnadir-tyn.vercel.app%2F&screenshot=true&embed=screenshot.url" align="left" width="380" style="border-radius:10px; border:1px solid #1E40AF; margin-right: 20px; margin-bottom: 20px;" alt="Nadir" />
-  </a>
-  <div style="display: inline-block;">
-    <h4>Nadir</h4>
-    <p>World mapped news agent under work to be fully deployed soon.</p>
-    <img src="https://img.shields.io/badge/Status-Development-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/Tech-React%20%7C%20Tailwind-1E40AF?style=flat-square" /><br><br>
-    <a href="https://nadir-tyn.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-1E40AF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    <a href="https://github.com/tusharynayaka/Nadir"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </div>
-</div>
-<br clear="left"/><hr/>
-
-<!-- EthosLedger -->
-<div align="left">
-  <a href="https://ethos-ledger.vercel.app">
-    <img src="https://api.microlink.io/?url=https%3A%2F%2Fethos-ledger.vercel.app&screenshot=true&embed=screenshot.url" align="left" width="380" style="border-radius:10px; border:1px solid #1E40AF; margin-right: 20px; margin-bottom: 20px;" alt="EthosLedger" />
-  </a>
-  <div style="display: inline-block;">
-    <h4>EthosLedger</h4>
-    <p>Decentralized approach to academic and professional credentialing for Genesys 2.0.</p>
-    <img src="https://img.shields.io/badge/Status-Hackathon%20MVP-orange?style=flat-square" />
-    <img src="https://img.shields.io/badge/Tech-Blockchain%20%7C%20Node.js-1E40AF?style=flat-square" /><br><br>
-    <a href="https://github.com/tusharynayaka/EthosLedger"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </div>
-</div>
-<br clear="left"/><hr/>
-
-<!-- Emotion and Attention AI -->
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow" align="left" width="380" style="padding: 40px; background: #0d1117; border-radius:10px; border:1px solid #1E40AF; margin-right: 20px; margin-bottom: 20px;" alt="AI Research" />
-  <div style="display: inline-block;">
-    <h4>Emotion and Attention AI</h4>
-    <p>Real-time AI system analyzing facial expressions and gaze for engagement monitoring.</p>
-    <img src="https://img.shields.io/badge/Status-Research%20Paper-blueviolet?style=flat-square" />
-    <img src="https://img.shields.io/badge/Tech-Python%20%7C%20Deep%20Learning-1E40AF?style=flat-square" />
-  </div>
-</div>
-<br clear="left"/><hr/>
-
-<!-- MeetMate -->
-<div align="left">
-  <a href="https://meetmate-eight.vercel.app/">
-    <img src="https://api.microlink.io/?url=https%3A%2F%2Fmeetmate-eight.vercel.app&screenshot=true&embed=screenshot.url" align="left" width="380" style="border-radius:10px; border:1px solid #1E40AF; margin-right: 20px; margin-bottom: 20px;" alt="MeetMate" />
-  </a>
-  <div style="display: inline-block;">
-    <h4>MeetMate</h4>
-    <p>Smart location tool designed to find optimal meeting points between multiple users.</p>
-    <img src="https://img.shields.io/badge/Status-LatLong%202025-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/Tech-React%20%7C%20Maps%20API-1E40AF?style=flat-square" /><br><br>
-    <a href="https://github.com/tusharynayaka/MeetMate"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </div>
-</div>
-<br clear="left"/><hr/>
-
-<!-- TerraAlertum (commented out in your projects.js, but I'll keep it commented in the README as before) -->
-<!--
-<div align="left">
-  <a href="https://terraalertum.vercel.app/">
-    <img src="https://api.microlink.io/?url=https%3A%2F%2Fterraalertum.vercel.app&screenshot=true&embed=screenshot.url" align="left" width="380" style="border-radius:10px; border:1px solid #1E40AF; margin-right: 20px; margin-bottom: 20px;" alt="TerraAlertum" />
-  </a>
-  <div style="display: inline-block;">
-    <h4>TerraAlertum</h4>
-    <p>Interactive platform designed to monitor and report environmental changes.</p>
-    <img src="https://img.shields.io/badge/Status-Silicon%20Rush%203.0-lightgrey?style=flat-square" />
-    <img src="https://img.shields.io/badge/Tech-React%20%7C%20Three.js-1E40AF?style=flat-square" /><br><br>
-    <a href="https://github.com/tusharynayaka/TerraAlterum"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </div>
-</div>
-<br clear="left"/><hr/>
--->
 
 </details>
 
+**Research:** Emotion and Attention AI, a real-time system that reads facial expressions and gaze to monitor engagement. Python, deep learning. Under process
+
 ---
 
-### Competitive Programming and Rhythm
+## Tech stack
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h4>LeetCode Mastery</h4>
-      <a href="https://leetcode.com/Tushar_Y_Nayaka/">
-        <img src="https://leetcard.jacoblin.cool/Tushar_Y_Nayaka?theme=dark&font=Fira+Code&ext=contest" width="100%" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>Recently Played</h4>
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=317uexzzh7ohdi2esfx7jvzlgvna&width=350&count=4" width="100%" />
-    </td>
-  </tr>
-</table>
-
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="85%" />
-  <br><br>
-  <h3>Thanks for visiting</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=120&section=footer&text=SEE%20YOU%20AROUND&fontSize=30&fontColor=ffffff" width="100%" />
-  <p><i>Built by Tushar Y Nayaka</i></p>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,py,js,html,css,react,nodejs,mongodb,tailwind,git,github" alt="Tech stack" />
+</p>
